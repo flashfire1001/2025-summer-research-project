@@ -24,7 +24,8 @@ The structure of our project:
 -   /learning-logs 是每天自己的记录,学了什么,还有什么疑惑,相当于自我陈述反思
 -   欢迎大家一起修改补充完善,我认为中英混杂挺好,看的懂就行.
 
-+++++
+-----
+
 
 There are 3 branches that forms our repository:
 
@@ -38,7 +39,7 @@ There are 3 branches that forms our repository:
 >
 >   (我也不会)
 
-+++++
+--------
 
 ### Some useful command for collaboration:
 
