@@ -1,1 +1,4 @@
-
+学习了怎么训练模型，知道了训练目标是向量域ut target（x）。我们之后的训练就是为了得到它。  
+学习了概率路径和向量域的相关知识，score functions因为数学推导疑似涉及偏导相关知识，我还没学过于是暂时跳过。在这过程中了解了Continuity Equation和Fokker-Planker equation。基本了解了从conditional到marginal的转变。  
+尝试了解怎么训练生成式模型  
+尝试了解pytorch和pycharm
