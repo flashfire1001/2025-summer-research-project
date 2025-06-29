@@ -385,9 +385,3 @@ plt.suptitle(f"Generated MNIST Digits after {EPOCHS} Epochs")
 plt.tight_layout()
 plt.show()
 
-# You can also generate a batch of images and save them if needed
-# with torch.no_grad():
-#     p_init_batch = SampleGuassian(batch_size=16) # e.g., generate 16 images
-#     simulator_batch = Simulator_unguided(trained_ode_for_sim, p_init_batch)
-#     generated_batch = simulator_batch.simulate(steps=256, device=device)
-#     print(f"Generated batch shape: {generated_batch.shape}")
