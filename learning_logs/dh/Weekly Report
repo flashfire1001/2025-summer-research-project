@@ -1,0 +1,12 @@
+学习了怎么训练模型，知道了训练目标是向量域ut target（x）。我们之后的训练就是为了得到它。  
+学习了概率路径和向量域的相关知识，score functions因为数学推导疑似涉及偏导相关知识，我还没学过于是暂时跳过。在这过程中了解了Continuity Equation和Fokker-Planker equation。基本了解了从conditional到marginal的转变。  
+尝试了解怎么训练生成式模型  
+尝试了解pytorch和pycharm
+首先学习了flow model和defussion model的相关知识。
+
+flow model主要通过模拟ODE方程来实现，而ODE方程的解X就是“向量运动的轨迹”。以一张图片为例，X就是原始噪声和最终输出图片之间的变化过程。
+*在ODE中的一些定义量：1.Xt表示t时刻的位置 2.Ut（Xt）表示t时刻在Xt位置时的速度，这是一个向量域。 3. Xt = ψt（x0）其中ψ（）是映射函数，x0是起始位置。
+当我们考虑计算ψ（flow）时，如果ut（）并非一个线性函数，那么计算会变得很难，所以要使用一些数值计算方法。如Euler Method和Huen's Method。
+*flow model的最终目标是将pinit转化为pdata，于是这个过程就从pinit中取样一个X0（X0 ~ pinit），然后经过模拟ODE方程之后得到X1（X1 ~ pdata），这两者满足 ψ1θ（X0）= X1。
+
+开始着手解决lab123
