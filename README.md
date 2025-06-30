@@ -12,9 +12,10 @@ The structure of our project:
 ├── /src              ← Source code for our program
 │   ├── main.py 
 │   └── ...
-├── /docs             ← Documentation for our program
+├── /docs             ← Documentation for our main program
 ├── /shared-resources ← learning resources(websites and books)
-├── /learning-logs    ← recordings 
+├── /learning-logs    ← recordings of progress (daily + weekly)
+├── /practices        ← the toy programs we completed individually
 └── /tests            ← Test scripts
 ```
 说明:
