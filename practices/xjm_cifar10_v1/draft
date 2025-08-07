@@ -1,0 +1,23 @@
+class CIFARSampler(nn.Module):
+    def __init__(self):
+        super().__init__()
+        self.dataset = datasets.CIFAR10(
+            root='./data',
+            train=True,
+            download=True,
+            transform=transforms.Compose([
+                transforms.ToTensor(),
+                transforms.Normalize((0.5,), (0.5,)),
+            ])
+        )
+        self.dummy = nn.Buffer(torch.zeros(1))
+
+    def sample(self, num_samples: int) -> Tuple[torch.Tensor, torch.Tensor]:
+        if num_samples > len(self.dataset):
+            raise ValueError(f"num_samples exceeds dataset size: {len(self.dataset)}")
+
+        indices = torch.randperm(len(self.dataset))[:num_samples]
+        subset = Subset(self.dataset, indices)
+        loader = DataLoader(subset, batch_size=num_samples)
+        images, labels = next(iter(loader))
+        return images.to(self.dummy), labels.type(dtype=torch.int64).to(self.dummy)
