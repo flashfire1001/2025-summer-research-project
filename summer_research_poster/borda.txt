@@ -1,0 +1,15 @@
+\mdfdefinestyle{MyFrame}{%
+	linecolor=blue,
+	outerlinewidth=2pt,
+	roundcorner=20pt,
+	innertopmargin=\baselineskip,
+	innerbottommargin=\baselineskip,
+	innerrightmargin=20pt,
+	innerleftmargin=20pt,
+	backgroundcolor=white!50!white}
+
+
+
+\begin{mdframed}[style=MyFrame]
+
+\end{{mdframed}}
