@@ -18,7 +18,7 @@ The structure of our project:
 ├── /practices        ← the toy programs we completed individually
 └── /tests            ← Test scripts
 ```
-说明: 这是一个简陋的暑研项目仓库, 虽然我的队友很强 , 但是由于我菜, 所以连英文也不会写, 就写中文的readme吧(反正也不会有人认真看.)
+说明: 这是一个简陋的暑研项目仓库, 虽然Phd Jimmy Xu的队友很菜, 但是由于Phd Jimmy Xu很强, 所以他不屑于写英文, 就写中文的readme吧(反正也不会有人认真看.)
 
 -   /src 存放的是最终项目的源代码,/tests是调试产生的信息,属于第二阶段
 -   /share-resource 包括我们学习进程中值得分享的网址(blog和网课)/PDF/数据集
