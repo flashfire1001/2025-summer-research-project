@@ -1,0 +1,66 @@
+\section*{Appendix}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Verification of the Constructed Marginal Velocity
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{Verification of the Constructed Marginal Velocity}\label{app:continuity}
+
+Under our construction $x_t = (1-t) x_0 + t z$, the trajectory of each sample is deterministic and given by a simple affine transformation. Such deterministic transform preserves the total probability mass: the density is only shifted and rescaled. Consequently, the evolution of $p_t(x_t \mid z)$ must satisfy the continuity equation:
+%
+\begin{equation*}
+\frac{\partial}{\partial} p_t(x_t \mid z) + \nabla_{x_t} \cdot (p_t(x_t \mid z) \cdot v(x_t, t \mid z)) = 0.
+\end{equation*}
+%
+Consider the marginal probability density:
+%
+\begin{align*}
+\frac{\partial}{\partial t} p_t(x_t) &= \frac{\partial}{\partial t} \int p_t(x_t \mid z) p_\text{target}(z) dz \\
+&= \int  \frac{\partial}{\partial t} p_t(x_t \mid z) p_\text{target} (z) dz.
+\end{align*}
+%
+Substitute $\dfrac{\partial}{\partial t} p_t(x_t \mid z)$ with the continuity equation:
+%
+\begin{align*}
+\frac{\partial}{\partial t} p_t(x_t)
+&= \int - \nabla_{x_t} \left( p_t(x_t \mid z) \cdot v(x_t, t \mid z) \right) p_\text{target} (z) \, dz \\
+&= - \int \nabla_{x_t} \cdot \left( p_t(x_t \mid z) \cdot v(x_t, t \mid z) p_\text{target}(z) \right) dz \\
+&= - \nabla_{x_t} \cdot \int v(x_t, t \mid z) \cdot p_t(x_t \mid z) p_\text{target} \, dz \\
+&= - \nabla_{x_t} \cdot \int v(x_t, t \mid z) \frac{p_t(x_t \mid z) p_\text{target}(z)}{p_t (x_t)} p_t(x_t) dz \\
+&= - \nabla_{x_t} \cdot \left( \left( \int v(x_t, t \mid z) \frac{p_t(x \mid z) p_\text{target}(z)}{p_t (x_t)} dz \right) \cdot p_t(x_t) \right) \\
+&= - \nabla_{x_t} \cdot \left( v^\text{tgt}(x_t, t) \cdot p_t(x_t) \right).
+\end{align*}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Conclusion of the Linear-Form Error
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{Conclusion of the Linear-Form Error}\label{app:linear_func}
+We show that whenever the error term is a linear function of the target velocity $v^\text{tgt}(x_t,t)$, the same training gradient can be obtained by substituting it with the conditional velocity $v(x_t,t \mid z)$.
+%
+Formally, assume
+\begin{equation*}
+\text{error} = A v^\text{tgt}(x_t, t) - b_\theta,
+\end{equation*}
+%
+where $A$ is a fixed matrix independent of the learnable parameters $\theta$, and $b_\theta$ is a function of $\theta$.
+
+
+Define the marginal and conditional objectives as:
+%
+\begin{align}
+  \mathcal{L_\text{marginal}} &= \mathbb{E}_{t, x_t \sim p_t} \left[ \left\| b_\theta - A v^\text{tgt} (x_t, t) \right\|_2^2 \right] \\
+  \mathcal{L_\text{conditional}} &=  \mathbb{E}_{t, z \sim p_\text{target}, x_t \sim p_t(\cdot \mid z)} \left[ \left\| b_\theta - A v (x_t, t \mid z) \right\|_2^2 \right]
+\end{align}
+%
+As in Section~\ref{train_model}, the expectations of $\|b_\theta\|_2^2$ under both measures coincide.
+%
+Besides, $\left\| A v^\text{tgt} (x_t, t) \right\|_2^2$ and $\left\| A v^\text{tgt} (x_t, t) \right\|_2^2$ are independent of $\theta$.
+%
+And we show that:
+%
+\begin{align*}
+\mathbb{E}_{t, x_t \sim p_t} \left[ b_\theta^\top A v^\text{tgt}(x_t, t) \right] &= \iint b_\theta^\top A v^\text{tgt}(x_t, t) p_t(x_t) \, dt \, dx_t \\
+&= \iint b_\theta^\top A \left( \int v(x_t, t \mid z) \frac{p_t(x_t \mid z) p_\text{target}(z)}{p_t(x_t)} \, dz \right) p_t(x_t) \, dt \, dx_t \\
+&= \iiint b_\theta^\top A v(x_t, t \mid z) p_t(x_t \mid z) p_\text{target}(z) \, dz \, dt \, dx_t \\
+&= \mathbb{E}_{t, z \sim p_\text{target}, x_t \sim p_t(\cdot \mid z)} \left[ b_\theta^\top A v(x_t, t \mid z) \right]
+\end{align*}
+
+This shows that $\mathcal{L}_\text{marginal}$ and $\mathcal{L}_\text{conditional}$ yield identical gradients with respect to $\theta$ whenever the error depends linearly on $v^\text{tgt}(x_t,t)$.

@@ -1,0 +1,86 @@
+\documentclass{article}
+
+% basic setting packages
+\usepackage{fontspec}             % for fontsize setup
+\usepackage{setspace}             % for space setup
+\usepackage{pdfpages}             % to insert pdf page
+\usepackage{titlesec}             % control the title format
+\usepackage{geometry}             % for maigin setup
+\usepackage{indentfirst}          % 让每个section后的第一段也缩进
+\usepackage{amsmath, amssymb}     % math setting
+
+% the margin
+\geometry{
+  a4paper,
+  top=2.54cm,
+  bottom=2.54cm,
+  left=2.54cm,
+  right=2.54cm
+}
+
+% Main Font: Times New Roman, 12pt, 1.5 linespace
+\setmainfont{Times New Roman}
+\fontsize{13pt}{13pt}\selectfont
+\setstretch{1.5}
+
+% set title format
+% \titleformat{<command>}{<format>}{<label>}{<sep>}{<before-code>}
+\titleformat{\section}
+{\bfseries\fontsize{15pt}{12pt}\selectfont} % format: bold + 小三
+{\thesection}{1em}{}  % linespace and the ordering
+
+% command for centered, unnumbered section (Abstract / Conclusion)
+\newcommand{\centersection}[1]{%
+  \begin{center}
+    {\bfseries\fontsize{15pt}{12pt}\selectfont #1} % bf, 小三, 1.5 linespace
+  \end{center}
+}
+
+% for the subsection
+\titleformat{\subsection}
+  {\bfseries\fontsize{14pt}{12pt}\selectfont}
+  {\thesubsection}{1em}{}
+
+% for the subsubsection
+\titleformat{\subsubsection}
+  {\bfseries\fontsize{13pt}{12pt}\selectfont}
+  {\thesubsubsection}{1em}{}
+
+% hyper link for reference
+\usepackage[colorlinks=true, linkcolor=blue, citecolor=blue, urlcolor=blue]{hyperref}
+
+% document begins here
+\begin{document}
+
+% include the cover
+\includepdf[pages=1]{cover/cover.pdf}
+
+% include the abstract
+\includepdf[pages=1]{abstract/abstract_cn.pdf}
+\input{abstract/abstract_en.tex}
+
+% include the introduction
+\input{introduction/introduction.tex}
+
+% include the background
+\input{background/background.tex}
+
+% include the methodology
+\input{methodology/methodology.tex}
+
+
+% Conclusion
+\clearpage
+\section*{Conclusion}
+This is the conclusion.
+
+% reference
+\bibliographystyle{unsrt}  % 可选: plain, unsrt, alpha 等
+\bibliography{references}  % references.bib 文件名，不需要 .bib 后缀
+
+% appendix
+\clearpage
+\appendix
+\input{appendix/appendix.tex}
+
+\end{document}
