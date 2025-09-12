@@ -33,9 +33,9 @@ The continuity equation describes how a density evloves with a velocity field. L
   \frac{\partial \rho(x, t)}{\partial t} + \nabla_x \cdot \left( \rho(x, t) v(x, t) \right) = 0.
 \end{equation}
 
-It states that, for any infinitesimal volume, the change of the density inside the volume equals the net flux across the boundary. This local balance, under some reasonable assumptions like the convergence of the global density, implies the global conservation of the substance. In our case, the ``total substance'' corresponds to the probability mass, and $\rho (x, t)$ represents the probability density. As a distribution evloves from a prior to the target data distribution, the continuity equation motivates the use of the velocity field to describe this evolution.
+It states that, for any infinitesimal volume, the change of the density inside the volume equals the net flux across the boundary. This local balance, under some reasonable assumptions like the convergence of the global density, implies the global conservation of the substance. In our case, the ``total substance'' corresponds to the probability mass, and $\rho (x, t)$ represents the probability density. As a distribution evloves from a prior to the target data distribution, the continuity equation motivates the use of a velocity field to describe this evolution.
 
-Let $p_\text{prior}$ and $p_\text{target}$ denote the prior and target distribution, and let $x_0 \sim p_\text{prior}$ and $x_1 \sim p_\text{target}$. Suppose the distribution evolves from $t = 0$ to $t = 1$ with intermediate distribution $p_t$ and $x_t \sim p_t$, we defined the velocity field $v(x_t, t)$ as:
+Let $p_\text{prior}$ and $p_\text{target}$ denote the prior and the target distribution, and let $x_0 \sim p_\text{prior}$ and $x_1 \sim p_\text{target}$. Suppose the distribution evolves from $t = 0$ to $t = 1$ with intermediate distribution $p_t$ and $x_t \sim p_t$, we defined the velocity field $v(x_t, t)$ as:
 %
 \begin{equation}\label{ode}
   v(x_t, t) \triangleq \frac{d x_t}{d t}.
@@ -56,7 +56,7 @@ In particular, selecting $t = 1$ produces a sample from $p_\text{target}$.
   \includegraphics[width=0.32\textwidth]{figures/flow_2.png}%
   \includegraphics[width=0.32\textwidth]{figures/flow_3.png}%
   \vspace{-1em}
-  \caption{Illustration of flows. Here, the evolution of the density is defined by a velocity field $v: \mathbb{R}^d \to \mathbb{R}^d$ (blue arrows) specifying its instantaneous movements at all locations (here $d = 2$). Figure from~\cite{mit}.}
+  \caption{Illustration of flows. Here, the evolution of the density is defined by a velocity field $v: \mathbb{R}^d \to \mathbb{R}^d$ (blue arrows) specifying its instantaneous movements at all locations (here $d = 2$). Figure from~\cite{flow}.}
 \end{figure}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -66,7 +66,7 @@ In particular, selecting $t = 1$ produces a sample from $p_\text{target}$.
 
 A deterministic trajectory from $p_\text{prior}$ to $p_\text{target}$ is called a probability path or marginal probability path. This evolution is driven by the marginal velocity field $v(x_t, t)$. However, directly obtaining $v(x_t, t)$ is generally difficult. Flow Matching constructs an equivalent velocity $v^\text{tgt}(x_t, t)$ with the weighted average.
 
-Consider sampling $z$ from $p_\text{target}$ and defining a conditional probability path from $p_\text{prior}$ to $\delta_z$ with conditional distribution $p_t(\cdot \mid x)$:
+Consider sampling $z$ from $p_\text{target}$ and defining a conditional probability path from $p_\text{prior}$ to $\delta_z$ with conditional distribution $p_t(\cdot \mid z)$:
 %
 \begin{equation}
 x_t = (1 - t) x_0 + t z.
@@ -75,7 +75,7 @@ x_t = (1 - t) x_0 + t z.
 The marginal distribution is then given by the total probability throrem:
 %
 \begin{equation*}
-p_t(x_t) = \int p_t(x_t \mid x) p_\text{target}(x) \, dx.
+p_t(x_t) = \int p_t(x_t \mid z) p_\text{target}(z) \, dz.
 \end{equation*}
 %
 The corresponding conditional velocity field is:
@@ -87,7 +87,7 @@ The corresponding conditional velocity field is:
 The marginal velocity, which serves as the training target, is constructed by taking the expectation of the conditional velocity under the weights of $z$:
 %
 \begin{align}
-  v^\text{tgt}(x_t, t) &\triangleq \int v(x_t, t \mid z) p_t(z \mid x_t) \, d x_t \nonumber \\
+  v^\text{tgt}(x_t, t) &\triangleq \int v(x_t, t \mid z) p_t(z \mid x_t) \, d z \nonumber \\
   &= \int v(x_t, t \mid z) \frac{p_t(x_t \mid z) p_\text{target}(z)}{p_t(x_t)} \, dz.
 \end{align}
 %
@@ -108,13 +108,13 @@ The validity of this construction with respect to $v^\text{tgt} (x_t, t)$ is dis
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \subsubsection{Train the Model}\label{train_model}
 
-Our generative model is trained by fitting a neural network $v^\theta(x_t, t)$ to approximate the target velocity field $v^\text{tgt}(x_t, t)$. A natural choice of objective is the mean squared error (MSE):
+Our generative model is trained by fitting a neural network $v^\theta(x_t, t)$ to approximate the target velocity field $v^\text{tgt}(x_t, t)$. A natural choice is the mean squared error (MSE) loss:
 %
 \begin{equation}
   \mathcal{L_\text{FM}} (\theta) = \mathbb{E}_{t, x_t \sim p_t} \left[ \left\| v^\theta (x_t, t) - v^\text{tgt} (x_t, t) \right\|_2^2 \right]
 \end{equation}
 %
-However, there is no closed-form expression for $v^\text{tgt}(x_t, t)$, and what we have access to is only samples from $p_\text{target}$ and $p_\text{prior}$. We now show that, under the MSE loss, one may equivalently replace $v^\text{tgt} (x_t, t)$ with the conditional velocity field $v(x_t, t \mid z)$:
+However, there is no closed-form for $v^\text{tgt}(x_t, t)$, and what we have access to is only samples from $p_\text{target}$ and $p_\text{prior}$. We now show that, under the MSE loss, one may equivalently replace $v^\text{tgt} (x_t, t)$ with the conditional velocity field $v(x_t, t \mid z)$:
 %
 \begin{equation}
   \mathcal{L_{\text{CFM}}} (\theta) = \mathbb{E}_{t, z \sim p_\text{target}, x_t \sim p_t(\cdot \mid z)} \left[ \left\| v^\theta (x_t, t) - v^\text{tgt} (x_t, t \mid z) \right\|_2^2 \right],
@@ -122,7 +122,7 @@ However, there is no closed-form expression for $v^\text{tgt}(x_t, t)$, and what
 %
 and the two objectives share the same gradients:
 \begin{equation}
-  \nabla_\theta \mathcal{L_{\text{CFM}}} (\theta) = \nabla_\theta \mathcal{L_{\text{FM}}} (\theta)
+  \nabla_\theta \mathcal{L_{\text{CFM}}} (\theta) = \nabla_\theta \mathcal{L_{\text{FM}}} (\theta).
 \end{equation}
 
 \paragraph{Proof.}

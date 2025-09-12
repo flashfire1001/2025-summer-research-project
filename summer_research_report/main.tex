@@ -8,6 +8,13 @@
 \usepackage{geometry}             % for maigin setup
 \usepackage{indentfirst}          % 让每个section后的第一段也缩进
 \usepackage{amsmath, amssymb}     % math setting
+\usepackage{caption}  % 同样支持 \captionof
+\usepackage[export]{adjustbox} % 导言区
+\usepackage[ruled,vlined,linesnumbered]{algorithm2e}  % 伪代码
+\usepackage{tikz}                 % 流程图
+\usetikzlibrary{shapes.geometric, arrows}
+\usepackage{booktabs}   % 表格的 \toprule, \midrule, \bottomrule
+\usepackage{graphicx}   % 图片
 
 % the margin
 \geometry{
@@ -68,18 +75,21 @@
 % include the methodology
 \input{methodology/methodology.tex}
 
+% include the experiment
+\input{experiment/experiment.tex}
 
-% Conclusion
-\clearpage
-\section*{Conclusion}
-This is the conclusion.
+% include the discussion
+\input{discussion/discussion.tex}
+
+% include the conclusion
+\input{conclusion/conclusion.tex}
 
 % reference
-\bibliographystyle{unsrt}  % 可选: plain, unsrt, alpha 等
+\clearpage
+\bibliographystyle{plain}  % 可选: plain, unsrt, alpha 等
 \bibliography{references}  % references.bib 文件名，不需要 .bib 后缀
 
-% appendix
-\clearpage
+% include the appendix
 \appendix
 \input{appendix/appendix.tex}
 
