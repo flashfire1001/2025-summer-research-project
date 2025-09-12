@@ -195,3 +195,9 @@ cython_debug/
 
 # The back-up foder for pdf files on mac
 .DS_Store
+*.aux
+*.log
+*.bbl
+*.blg
+*.brf
+*.out
