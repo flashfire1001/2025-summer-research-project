@@ -3,7 +3,7 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % Mean Flow
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\subsection{Mean Flow}
+\subsection{MeanFlow}
 
 \begin{figure}[b]
   \centering
@@ -12,7 +12,7 @@
   \vspace{-3em}
 \end{figure}
 
-Following~\cite{meanflow}, the instantaneous velocity field in Flow Matching can be replaced with an average velocity to enable one-step generation. Specifically, from time $r$ to time $t$, the average velocity is defined as:
+To facilitate inference, \cite{meanflow} proposes the MeanFlow framework. Following~\cite{meanflow}, the instantaneous velocity field in Flow Matching can be replaced with an average velocity to enable one-step generation. Specifically, from time $r$ to time $t$, the average velocity is defined as:
 %
 \begin{equation}\label{average_velocity}
   u(x_r, r, t) \triangleq \frac{1}{t - r} \int^t_r v(x_\tau, \tau) \; d \tau.
@@ -71,9 +71,9 @@ The details are provided in Appendix~\ref{app:cfg}.
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % Change the Prior for Denoising
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\subsection{Change the Prior for Denoising}
+\subsection{Adapt MeanFlow for Denoising}
 
-To serve the denoising purpose, we alter the $p_\text{prior}$ to be noisy images rather than simple distributions like the standard Gaussian. This modification enables the average velocity to directly model the transformation from noisy images to clean images.
+Denoising is a fundamental task in image processing, where the goal is to recover a clean image from its corrupted observation. Formally, given an observation $y = A x + \epsilon$, where $x$ is the original image, $y$ is the noisy observation, and $\epsilon$ represents noise (e.g., Gaussian), the objective is to reconstruct $x$ as accurately as possible. In the simplest setting, $A = I$ and $\epsilon$ is Gaussian noise. The MeanFlow model provides a framework to transform one distribution into another via 1-NFE sampling, making it particularly suitable for this task. To adapt MeanFlow for denoising, we modify the prior distribution $p_\text{prior}$ to be noisy images instead of a simple standard Gaussian. This allows the average velocity field to directly model the transformation from noisy inputs to clean images, enabling efficient one-step denoising.
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % DiT Architecture
