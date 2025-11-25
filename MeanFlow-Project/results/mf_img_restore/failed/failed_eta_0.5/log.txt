@@ -1,0 +1,2250 @@
+Thu Jul 31 23:43:00 2025
+Global Step: 200    Loss: 0.915577    MSE_Loss: 0.915093    Learning Rate: 0.000100    Test-PSNR: 16.250621795654297
+
+Thu Jul 31 23:43:51 2025
+Global Step: 400    Loss: 0.765709    MSE_Loss: 0.750913    Learning Rate: 0.000100    Test-PSNR: 16.453516006469727
+
+Thu Jul 31 23:44:42 2025
+Global Step: 600    Loss: 0.854261    MSE_Loss: 1.250803    Learning Rate: 0.000099    Test-PSNR: 16.686580657958984
+
+Thu Jul 31 23:45:33 2025
+Global Step: 800    Loss: 0.866549    MSE_Loss: 1.508789    Learning Rate: 0.000098    Test-PSNR: 17.512386322021484
+
+Thu Jul 31 23:46:24 2025
+Global Step: 1000    Loss: 0.811355    MSE_Loss: 1.349016    Learning Rate: 0.000098    Test-PSNR: 18.161285400390625
+
+Thu Jul 31 23:47:14 2025
+Global Step: 1200    Loss: 0.769229    MSE_Loss: 1.240824    Learning Rate: 0.000097    Test-PSNR: 18.48811149597168
+
+Thu Jul 31 23:48:05 2025
+Global Step: 1400    Loss: 0.730196    MSE_Loss: 1.090131    Learning Rate: 0.000095    Test-PSNR: 18.525310516357422
+
+Thu Jul 31 23:48:55 2025
+Global Step: 1600    Loss: 0.714303    MSE_Loss: 1.035976    Learning Rate: 0.000094    Test-PSNR: 18.334308624267578
+
+Thu Jul 31 23:49:46 2025
+Global Step: 1800    Loss: 0.675393    MSE_Loss: 0.883854    Learning Rate: 0.000092    Test-PSNR: 18.451507568359375
+
+Thu Jul 31 23:50:37 2025
+Global Step: 2000    Loss: 0.663369    MSE_Loss: 0.825557    Learning Rate: 0.000091    Test-PSNR: 18.58420181274414
+
+Thu Jul 31 23:51:27 2025
+Global Step: 2200    Loss: 0.666574    MSE_Loss: 0.844421    Learning Rate: 0.000089    Test-PSNR: 18.558557510375977
+
+Thu Jul 31 23:52:18 2025
+Global Step: 2400    Loss: 0.645499    MSE_Loss: 0.773759    Learning Rate: 0.000087    Test-PSNR: 18.269023895263672
+
+Thu Jul 31 23:53:09 2025
+Global Step: 2600    Loss: 0.647076    MSE_Loss: 0.785368    Learning Rate: 0.000084    Test-PSNR: 18.506332397460938
+
+Thu Jul 31 23:53:59 2025
+Global Step: 2800    Loss: 0.653159    MSE_Loss: 0.809793    Learning Rate: 0.000082    Test-PSNR: 18.46487808227539
+
+Thu Jul 31 23:54:50 2025
+Global Step: 3000    Loss: 0.652482    MSE_Loss: 0.797189    Learning Rate: 0.000080    Test-PSNR: 18.4862060546875
+
+Thu Jul 31 23:55:40 2025
+Global Step: 3200    Loss: 0.658590    MSE_Loss: 0.811365    Learning Rate: 0.000077    Test-PSNR: 18.42335319519043
+
+Thu Jul 31 23:56:31 2025
+Global Step: 3400    Loss: 0.663768    MSE_Loss: 0.873464    Learning Rate: 0.000074    Test-PSNR: 18.315996170043945
+
+Thu Jul 31 23:57:21 2025
+Global Step: 3600    Loss: 0.635684    MSE_Loss: 0.761811    Learning Rate: 0.000072    Test-PSNR: 18.55438995361328
+
+Thu Jul 31 23:58:12 2025
+Global Step: 3800    Loss: 0.635496    MSE_Loss: 0.771428    Learning Rate: 0.000069    Test-PSNR: 18.636245727539062
+
+Thu Jul 31 23:59:02 2025
+Global Step: 4000    Loss: 0.632698    MSE_Loss: 0.761951    Learning Rate: 0.000066    Test-PSNR: 18.29924201965332
+
+Thu Jul 31 23:59:53 2025
+Global Step: 4200    Loss: 0.644151    MSE_Loss: 0.817622    Learning Rate: 0.000063    Test-PSNR: 18.69439697265625
+
+Fri Aug  1 00:00:43 2025
+Global Step: 4400    Loss: 0.646871    MSE_Loss: 0.811554    Learning Rate: 0.000060    Test-PSNR: 18.212284088134766
+
+Fri Aug  1 00:01:34 2025
+Global Step: 4600    Loss: 0.652213    MSE_Loss: 0.815726    Learning Rate: 0.000057    Test-PSNR: 18.58976936340332
+
+Fri Aug  1 00:02:25 2025
+Global Step: 4800    Loss: 0.626255    MSE_Loss: 0.738848    Learning Rate: 0.000054    Test-PSNR: 18.501293182373047
+
+Fri Aug  1 00:03:15 2025
+Global Step: 5000    Loss: 0.603558    MSE_Loss: 0.693233    Learning Rate: 0.000051    Test-PSNR: 18.099563598632812
+
+Fri Aug  1 00:04:06 2025
+Global Step: 5200    Loss: 0.584379    MSE_Loss: 0.640580    Learning Rate: 0.000047    Test-PSNR: 18.216503143310547
+
+Fri Aug  1 00:04:57 2025
+Global Step: 5400    Loss: 0.584748    MSE_Loss: 0.638176    Learning Rate: 0.000044    Test-PSNR: 18.307788848876953
+
+Fri Aug  1 00:05:47 2025
+Global Step: 5600    Loss: 0.590401    MSE_Loss: 0.645990    Learning Rate: 0.000041    Test-PSNR: 18.315937042236328
+
+Fri Aug  1 00:06:38 2025
+Global Step: 5800    Loss: 0.560895    MSE_Loss: 0.574495    Learning Rate: 0.000038    Test-PSNR: 18.343547821044922
+
+Fri Aug  1 00:07:28 2025
+Global Step: 6000    Loss: 0.547339    MSE_Loss: 0.525072    Learning Rate: 0.000035    Test-PSNR: 18.277868270874023
+
+Fri Aug  1 00:08:19 2025
+Global Step: 6200    Loss: 0.561674    MSE_Loss: 0.567906    Learning Rate: 0.000032    Test-PSNR: 18.185945510864258
+
+Fri Aug  1 00:09:09 2025
+Global Step: 6400    Loss: 0.555493    MSE_Loss: 0.560568    Learning Rate: 0.000029    Test-PSNR: 18.296602249145508
+
+Fri Aug  1 00:10:00 2025
+Global Step: 6600    Loss: 0.538261    MSE_Loss: 0.527880    Learning Rate: 0.000027    Test-PSNR: 18.443809509277344
+
+Fri Aug  1 00:10:51 2025
+Global Step: 6800    Loss: 0.522708    MSE_Loss: 0.490147    Learning Rate: 0.000024    Test-PSNR: 18.561628341674805
+
+Fri Aug  1 00:11:42 2025
+Global Step: 7000    Loss: 0.501695    MSE_Loss: 0.437218    Learning Rate: 0.000021    Test-PSNR: 18.270376205444336
+
+Fri Aug  1 00:12:32 2025
+Global Step: 7200    Loss: 0.491732    MSE_Loss: 0.406867    Learning Rate: 0.000019    Test-PSNR: 18.468975067138672
+
+Fri Aug  1 00:13:23 2025
+Global Step: 7400    Loss: 0.489466    MSE_Loss: 0.391840    Learning Rate: 0.000017    Test-PSNR: 18.37908935546875
+
+Fri Aug  1 00:14:13 2025
+Global Step: 7600    Loss: 0.490859    MSE_Loss: 0.392911    Learning Rate: 0.000014    Test-PSNR: 18.201457977294922
+
+Fri Aug  1 00:15:04 2025
+Global Step: 7800    Loss: 0.483538    MSE_Loss: 0.375990    Learning Rate: 0.000012    Test-PSNR: 18.22496795654297
+
+Fri Aug  1 00:15:54 2025
+Global Step: 8000    Loss: 0.483465    MSE_Loss: 0.378131    Learning Rate: 0.000010    Test-PSNR: 18.181365966796875
+
+Fri Aug  1 00:16:45 2025
+Global Step: 8200    Loss: 0.482962    MSE_Loss: 0.382864    Learning Rate: 0.000009    Test-PSNR: 18.20372200012207
+
+Fri Aug  1 00:17:35 2025
+Global Step: 8400    Loss: 0.477324    MSE_Loss: 0.373066    Learning Rate: 0.000007    Test-PSNR: 18.201679229736328
+
+Fri Aug  1 00:18:26 2025
+Global Step: 8600    Loss: 0.471710    MSE_Loss: 0.363459    Learning Rate: 0.000006    Test-PSNR: 18.187515258789062
+
+Fri Aug  1 00:19:16 2025
+Global Step: 8800    Loss: 0.470049    MSE_Loss: 0.360377    Learning Rate: 0.000004    Test-PSNR: 18.146728515625
+
+Fri Aug  1 00:20:07 2025
+Global Step: 9000    Loss: 0.460483    MSE_Loss: 0.335429    Learning Rate: 0.000003    Test-PSNR: 18.176891326904297
+
+Fri Aug  1 00:20:58 2025
+Global Step: 9200    Loss: 0.462412    MSE_Loss: 0.345893    Learning Rate: 0.000003    Test-PSNR: 18.15753173828125
+
+Fri Aug  1 00:21:49 2025
+Global Step: 9400    Loss: 0.457774    MSE_Loss: 0.338784    Learning Rate: 0.000002    Test-PSNR: 18.074031829833984
+
+Fri Aug  1 00:22:39 2025
+Global Step: 9600    Loss: 0.458346    MSE_Loss: 0.340291    Learning Rate: 0.000001    Test-PSNR: 18.09486198425293
+
+Fri Aug  1 00:23:30 2025
+Global Step: 9800    Loss: 0.456335    MSE_Loss: 0.331351    Learning Rate: 0.000001    Test-PSNR: 18.10947036743164
+
+Fri Aug  1 00:24:20 2025
+Global Step: 10000    Loss: 0.453780    MSE_Loss: 0.325172    Learning Rate: 0.000100    Test-PSNR: 18.150653839111328
+
+Fri Aug  1 00:25:11 2025
+Global Step: 10200    Loss: 0.537467    MSE_Loss: 0.482767    Learning Rate: 0.000100    Test-PSNR: 18.186317443847656
+
+Fri Aug  1 00:26:01 2025
+Global Step: 10400    Loss: 0.638268    MSE_Loss: 0.849406    Learning Rate: 0.000100    Test-PSNR: 18.431631088256836
+
+Fri Aug  1 00:26:52 2025
+Global Step: 10600    Loss: 0.689853    MSE_Loss: 1.017027    Learning Rate: 0.000100    Test-PSNR: 17.928321838378906
+
+Fri Aug  1 00:27:43 2025
+Global Step: 10800    Loss: 0.706428    MSE_Loss: 1.124370    Learning Rate: 0.000100    Test-PSNR: 17.899267196655273
+
+Fri Aug  1 00:28:33 2025
+Global Step: 11000    Loss: 0.635800    MSE_Loss: 0.845527    Learning Rate: 0.000099    Test-PSNR: 18.112873077392578
+
+Fri Aug  1 00:29:24 2025
+Global Step: 11200    Loss: 0.660271    MSE_Loss: 0.908785    Learning Rate: 0.000099    Test-PSNR: 18.22417449951172
+
+Fri Aug  1 00:30:14 2025
+Global Step: 11400    Loss: 0.664428    MSE_Loss: 0.963439    Learning Rate: 0.000099    Test-PSNR: 18.310258865356445
+
+Fri Aug  1 00:31:05 2025
+Global Step: 11600    Loss: 0.658810    MSE_Loss: 0.934352    Learning Rate: 0.000098    Test-PSNR: 17.929584503173828
+
+Fri Aug  1 00:31:56 2025
+Global Step: 11800    Loss: 0.641433    MSE_Loss: 0.851620    Learning Rate: 0.000098    Test-PSNR: 18.41623878479004
+
+Fri Aug  1 00:32:46 2025
+Global Step: 12000    Loss: 0.647773    MSE_Loss: 0.911598    Learning Rate: 0.000098    Test-PSNR: 17.676698684692383
+
+Fri Aug  1 00:33:37 2025
+Global Step: 12200    Loss: 0.655038    MSE_Loss: 0.914342    Learning Rate: 0.000097    Test-PSNR: 17.607318878173828
+
+Fri Aug  1 00:34:27 2025
+Global Step: 12400    Loss: 0.634363    MSE_Loss: 0.822394    Learning Rate: 0.000097    Test-PSNR: 18.1431884765625
+
+Fri Aug  1 00:35:18 2025
+Global Step: 12600    Loss: 0.665538    MSE_Loss: 1.006035    Learning Rate: 0.000096    Test-PSNR: 17.996810913085938
+
+Fri Aug  1 00:36:08 2025
+Global Step: 12800    Loss: 0.666618    MSE_Loss: 0.998328    Learning Rate: 0.000095    Test-PSNR: 17.488662719726562
+
+Fri Aug  1 00:36:59 2025
+Global Step: 13000    Loss: 0.702602    MSE_Loss: 1.236589    Learning Rate: 0.000095    Test-PSNR: 17.723587036132812
+
+Fri Aug  1 00:37:50 2025
+Global Step: 13200    Loss: 0.642003    MSE_Loss: 0.874390    Learning Rate: 0.000094    Test-PSNR: 17.534748077392578
+
+Fri Aug  1 00:38:41 2025
+Global Step: 13400    Loss: 0.633388    MSE_Loss: 0.837392    Learning Rate: 0.000093    Test-PSNR: 17.561664581298828
+
+Fri Aug  1 00:39:31 2025
+Global Step: 13600    Loss: 0.629699    MSE_Loss: 0.849640    Learning Rate: 0.000092    Test-PSNR: 17.70557403564453
+
+Fri Aug  1 00:40:22 2025
+Global Step: 13800    Loss: 0.628370    MSE_Loss: 0.843976    Learning Rate: 0.000091    Test-PSNR: 18.30295181274414
+
+Fri Aug  1 00:41:12 2025
+Global Step: 14000    Loss: 0.654292    MSE_Loss: 0.945878    Learning Rate: 0.000091    Test-PSNR: 17.656492233276367
+
+Fri Aug  1 00:42:03 2025
+Global Step: 14200    Loss: 0.624155    MSE_Loss: 0.855627    Learning Rate: 0.000090    Test-PSNR: 18.166500091552734
+
+Fri Aug  1 00:42:53 2025
+Global Step: 14400    Loss: 0.626523    MSE_Loss: 0.866870    Learning Rate: 0.000089    Test-PSNR: 17.36373519897461
+
+Fri Aug  1 00:43:44 2025
+Global Step: 14600    Loss: 0.586812    MSE_Loss: 0.714214    Learning Rate: 0.000088    Test-PSNR: 17.802291870117188
+
+Fri Aug  1 00:44:35 2025
+Global Step: 14800    Loss: 0.605756    MSE_Loss: 0.776507    Learning Rate: 0.000087    Test-PSNR: 17.14358139038086
+
+Fri Aug  1 00:45:25 2025
+Global Step: 15000    Loss: 0.589069    MSE_Loss: 0.731349    Learning Rate: 0.000086    Test-PSNR: 17.58220672607422
+
+Fri Aug  1 00:46:16 2025
+Global Step: 15200    Loss: 0.589890    MSE_Loss: 0.701994    Learning Rate: 0.000084    Test-PSNR: 17.73971939086914
+
+Fri Aug  1 00:47:07 2025
+Global Step: 15400    Loss: 0.578135    MSE_Loss: 0.664042    Learning Rate: 0.000083    Test-PSNR: 18.12808609008789
+
+Fri Aug  1 00:47:57 2025
+Global Step: 15600    Loss: 0.581145    MSE_Loss: 0.689578    Learning Rate: 0.000082    Test-PSNR: 18.092235565185547
+
+Fri Aug  1 00:48:48 2025
+Global Step: 15800    Loss: 0.597163    MSE_Loss: 0.774378    Learning Rate: 0.000081    Test-PSNR: 17.169803619384766
+
+Fri Aug  1 00:49:38 2025
+Global Step: 16000    Loss: 0.593631    MSE_Loss: 0.794142    Learning Rate: 0.000080    Test-PSNR: 17.531505584716797
+
+Fri Aug  1 00:50:29 2025
+Global Step: 16200    Loss: 0.559250    MSE_Loss: 0.629849    Learning Rate: 0.000078    Test-PSNR: 17.653850555419922
+
+Fri Aug  1 00:51:19 2025
+Global Step: 16400    Loss: 0.577311    MSE_Loss: 0.665644    Learning Rate: 0.000077    Test-PSNR: 17.648418426513672
+
+Fri Aug  1 00:52:10 2025
+Global Step: 16600    Loss: 0.586585    MSE_Loss: 0.695988    Learning Rate: 0.000076    Test-PSNR: 17.585346221923828
+
+Fri Aug  1 00:53:00 2025
+Global Step: 16800    Loss: 0.573335    MSE_Loss: 0.671320    Learning Rate: 0.000074    Test-PSNR: 17.448974609375
+
+Fri Aug  1 00:53:51 2025
+Global Step: 17000    Loss: 0.560279    MSE_Loss: 0.618855    Learning Rate: 0.000073    Test-PSNR: 17.538070678710938
+
+Fri Aug  1 00:54:42 2025
+Global Step: 17200    Loss: 0.547536    MSE_Loss: 0.595543    Learning Rate: 0.000072    Test-PSNR: 17.650991439819336
+
+Fri Aug  1 00:55:32 2025
+Global Step: 17400    Loss: 0.546509    MSE_Loss: 0.588049    Learning Rate: 0.000070    Test-PSNR: 17.561595916748047
+
+Fri Aug  1 00:56:23 2025
+Global Step: 17600    Loss: 0.542259    MSE_Loss: 0.567301    Learning Rate: 0.000069    Test-PSNR: 16.89466094970703
+
+Fri Aug  1 00:57:14 2025
+Global Step: 17800    Loss: 0.512695    MSE_Loss: 0.489670    Learning Rate: 0.000067    Test-PSNR: 17.33772850036621
+
+Fri Aug  1 00:58:04 2025
+Global Step: 18000    Loss: 0.505540    MSE_Loss: 0.459949    Learning Rate: 0.000066    Test-PSNR: 16.88789939880371
+
+Fri Aug  1 00:58:55 2025
+Global Step: 18200    Loss: 0.503548    MSE_Loss: 0.476560    Learning Rate: 0.000064    Test-PSNR: 16.92034149169922
+
+Fri Aug  1 00:59:46 2025
+Global Step: 18400    Loss: 0.511962    MSE_Loss: 0.509902    Learning Rate: 0.000063    Test-PSNR: 17.274188995361328
+
+Fri Aug  1 01:00:36 2025
+Global Step: 18600    Loss: 0.511679    MSE_Loss: 0.522119    Learning Rate: 0.000061    Test-PSNR: 17.285350799560547
+
+Fri Aug  1 01:01:27 2025
+Global Step: 18800    Loss: 0.497973    MSE_Loss: 0.447465    Learning Rate: 0.000060    Test-PSNR: 17.052600860595703
+
+Fri Aug  1 01:02:18 2025
+Global Step: 19000    Loss: 0.499007    MSE_Loss: 0.446076    Learning Rate: 0.000058    Test-PSNR: 17.499576568603516
+
+Fri Aug  1 01:03:08 2025
+Global Step: 19200    Loss: 0.498344    MSE_Loss: 0.463803    Learning Rate: 0.000057    Test-PSNR: 16.80526351928711
+
+Fri Aug  1 01:03:59 2025
+Global Step: 19400    Loss: 0.492038    MSE_Loss: 0.453520    Learning Rate: 0.000055    Test-PSNR: 16.915294647216797
+
+Fri Aug  1 01:04:49 2025
+Global Step: 19600    Loss: 0.485638    MSE_Loss: 0.432818    Learning Rate: 0.000054    Test-PSNR: 17.1039981842041
+
+Fri Aug  1 01:05:40 2025
+Global Step: 19800    Loss: 0.474106    MSE_Loss: 0.401081    Learning Rate: 0.000052    Test-PSNR: 17.25503158569336
+
+Fri Aug  1 01:06:30 2025
+Global Step: 20000    Loss: 0.476504    MSE_Loss: 0.399345    Learning Rate: 0.000051    Test-PSNR: 17.00605583190918
+
+Fri Aug  1 01:07:21 2025
+Global Step: 20200    Loss: 0.485793    MSE_Loss: 0.432668    Learning Rate: 0.000049    Test-PSNR: 16.802921295166016
+
+Fri Aug  1 01:08:12 2025
+Global Step: 20400    Loss: 0.478065    MSE_Loss: 0.411712    Learning Rate: 0.000047    Test-PSNR: 17.162538528442383
+
+Fri Aug  1 01:09:02 2025
+Global Step: 20600    Loss: 0.460148    MSE_Loss: 0.367511    Learning Rate: 0.000046    Test-PSNR: 16.823450088500977
+
+Fri Aug  1 01:09:53 2025
+Global Step: 20800    Loss: 0.465484    MSE_Loss: 0.408892    Learning Rate: 0.000044    Test-PSNR: 16.53093147277832
+
+Fri Aug  1 01:10:43 2025
+Global Step: 21000    Loss: 0.464666    MSE_Loss: 0.411831    Learning Rate: 0.000043    Test-PSNR: 16.721576690673828
+
+Fri Aug  1 01:11:34 2025
+Global Step: 21200    Loss: 0.449706    MSE_Loss: 0.348109    Learning Rate: 0.000041    Test-PSNR: 17.19266128540039
+
+Fri Aug  1 01:12:25 2025
+Global Step: 21400    Loss: 0.439390    MSE_Loss: 0.324916    Learning Rate: 0.000040    Test-PSNR: 16.82596206665039
+
+Fri Aug  1 01:13:15 2025
+Global Step: 21600    Loss: 0.427658    MSE_Loss: 0.306144    Learning Rate: 0.000038    Test-PSNR: 16.940467834472656
+
+Fri Aug  1 01:14:06 2025
+Global Step: 21800    Loss: 0.425400    MSE_Loss: 0.305809    Learning Rate: 0.000037    Test-PSNR: 16.93383026123047
+
+Fri Aug  1 01:14:56 2025
+Global Step: 22000    Loss: 0.430589    MSE_Loss: 0.320780    Learning Rate: 0.000035    Test-PSNR: 17.188631057739258
+
+Fri Aug  1 01:15:47 2025
+Global Step: 22200    Loss: 0.433189    MSE_Loss: 0.325691    Learning Rate: 0.000034    Test-PSNR: 17.201900482177734
+
+Fri Aug  1 01:16:37 2025
+Global Step: 22400    Loss: 0.421022    MSE_Loss: 0.296794    Learning Rate: 0.000032    Test-PSNR: 17.03863525390625
+
+Fri Aug  1 01:17:28 2025
+Global Step: 22600    Loss: 0.416972    MSE_Loss: 0.291067    Learning Rate: 0.000031    Test-PSNR: 17.198802947998047
+
+Fri Aug  1 01:18:19 2025
+Global Step: 22800    Loss: 0.419339    MSE_Loss: 0.298168    Learning Rate: 0.000029    Test-PSNR: 17.096200942993164
+
+Fri Aug  1 01:19:10 2025
+Global Step: 23000    Loss: 0.421039    MSE_Loss: 0.305891    Learning Rate: 0.000028    Test-PSNR: 16.798383712768555
+
+Fri Aug  1 01:20:00 2025
+Global Step: 23200    Loss: 0.412549    MSE_Loss: 0.282709    Learning Rate: 0.000027    Test-PSNR: 16.773834228515625
+
+Fri Aug  1 01:20:51 2025
+Global Step: 23400    Loss: 0.400700    MSE_Loss: 0.253360    Learning Rate: 0.000025    Test-PSNR: 16.928926467895508
+
+Fri Aug  1 01:21:42 2025
+Global Step: 23600    Loss: 0.400628    MSE_Loss: 0.252495    Learning Rate: 0.000024    Test-PSNR: 16.858779907226562
+
+Fri Aug  1 01:22:32 2025
+Global Step: 23800    Loss: 0.398348    MSE_Loss: 0.255397    Learning Rate: 0.000023    Test-PSNR: 16.925058364868164
+
+Fri Aug  1 01:23:23 2025
+Global Step: 24000    Loss: 0.397890    MSE_Loss: 0.262608    Learning Rate: 0.000021    Test-PSNR: 17.041078567504883
+
+Fri Aug  1 01:24:14 2025
+Global Step: 24200    Loss: 0.396999    MSE_Loss: 0.267464    Learning Rate: 0.000020    Test-PSNR: 17.216407775878906
+
+Fri Aug  1 01:25:04 2025
+Global Step: 24400    Loss: 0.389403    MSE_Loss: 0.247315    Learning Rate: 0.000019    Test-PSNR: 17.266353607177734
+
+Fri Aug  1 01:25:55 2025
+Global Step: 24600    Loss: 0.386005    MSE_Loss: 0.242867    Learning Rate: 0.000018    Test-PSNR: 16.993976593017578
+
+Fri Aug  1 01:26:45 2025
+Global Step: 24800    Loss: 0.381667    MSE_Loss: 0.229793    Learning Rate: 0.000017    Test-PSNR: 16.744962692260742
+
+Fri Aug  1 01:27:36 2025
+Global Step: 25000    Loss: 0.373306    MSE_Loss: 0.210842    Learning Rate: 0.000015    Test-PSNR: 17.025917053222656
+
+Fri Aug  1 01:28:26 2025
+Global Step: 25200    Loss: 0.371229    MSE_Loss: 0.207624    Learning Rate: 0.000014    Test-PSNR: 16.87959861755371
+
+Fri Aug  1 01:29:17 2025
+Global Step: 25400    Loss: 0.366872    MSE_Loss: 0.203344    Learning Rate: 0.000013    Test-PSNR: 16.987281799316406
+
+Fri Aug  1 01:30:07 2025
+Global Step: 25600    Loss: 0.362926    MSE_Loss: 0.201732    Learning Rate: 0.000012    Test-PSNR: 16.86391258239746
+
+Fri Aug  1 01:30:58 2025
+Global Step: 25800    Loss: 0.362151    MSE_Loss: 0.199055    Learning Rate: 0.000011    Test-PSNR: 16.95523452758789
+
+Fri Aug  1 01:31:49 2025
+Global Step: 26000    Loss: 0.361101    MSE_Loss: 0.203075    Learning Rate: 0.000010    Test-PSNR: 16.86907386779785
+
+Fri Aug  1 01:32:39 2025
+Global Step: 26200    Loss: 0.357871    MSE_Loss: 0.194785    Learning Rate: 0.000010    Test-PSNR: 16.9526309967041
+
+Fri Aug  1 01:33:30 2025
+Global Step: 26400    Loss: 0.356092    MSE_Loss: 0.194421    Learning Rate: 0.000009    Test-PSNR: 16.892940521240234
+
+Fri Aug  1 01:34:21 2025
+Global Step: 26600    Loss: 0.353491    MSE_Loss: 0.193793    Learning Rate: 0.000008    Test-PSNR: 16.901546478271484
+
+Fri Aug  1 01:35:11 2025
+Global Step: 26800    Loss: 0.350156    MSE_Loss: 0.190799    Learning Rate: 0.000007    Test-PSNR: 16.887718200683594
+
+Fri Aug  1 01:36:02 2025
+Global Step: 27000    Loss: 0.345037    MSE_Loss: 0.173507    Learning Rate: 0.000006    Test-PSNR: 16.93630599975586
+
+Fri Aug  1 01:36:52 2025
+Global Step: 27200    Loss: 0.342208    MSE_Loss: 0.173226    Learning Rate: 0.000006    Test-PSNR: 16.84813690185547
+
+Fri Aug  1 01:37:43 2025
+Global Step: 27400    Loss: 0.336194    MSE_Loss: 0.159490    Learning Rate: 0.000005    Test-PSNR: 16.966087341308594
+
+Fri Aug  1 01:38:33 2025
+Global Step: 27600    Loss: 0.332280    MSE_Loss: 0.154000    Learning Rate: 0.000004    Test-PSNR: 16.932151794433594
+
+Fri Aug  1 01:39:24 2025
+Global Step: 27800    Loss: 0.331209    MSE_Loss: 0.152037    Learning Rate: 0.000004    Test-PSNR: 16.82499122619629
+
+Fri Aug  1 01:40:15 2025
+Global Step: 28000    Loss: 0.330022    MSE_Loss: 0.155808    Learning Rate: 0.000003    Test-PSNR: 16.80311393737793
+
+Fri Aug  1 01:41:06 2025
+Global Step: 28200    Loss: 0.327149    MSE_Loss: 0.146371    Learning Rate: 0.000003    Test-PSNR: 16.76082992553711
+
+Fri Aug  1 01:41:56 2025
+Global Step: 28400    Loss: 0.327614    MSE_Loss: 0.152782    Learning Rate: 0.000003    Test-PSNR: 16.8247127532959
+
+Fri Aug  1 01:42:47 2025
+Global Step: 28600    Loss: 0.327607    MSE_Loss: 0.149528    Learning Rate: 0.000002    Test-PSNR: 16.801448822021484
+
+Fri Aug  1 01:43:37 2025
+Global Step: 28800    Loss: 0.327628    MSE_Loss: 0.151328    Learning Rate: 0.000002    Test-PSNR: 16.75165557861328
+
+Fri Aug  1 01:44:28 2025
+Global Step: 29000    Loss: 0.325298    MSE_Loss: 0.147015    Learning Rate: 0.000002    Test-PSNR: 16.77428436279297
+
+Fri Aug  1 01:45:19 2025
+Global Step: 29200    Loss: 0.323563    MSE_Loss: 0.144659    Learning Rate: 0.000001    Test-PSNR: 16.76348876953125
+
+Fri Aug  1 01:46:09 2025
+Global Step: 29400    Loss: 0.324449    MSE_Loss: 0.146705    Learning Rate: 0.000001    Test-PSNR: 16.795658111572266
+
+Fri Aug  1 01:47:00 2025
+Global Step: 29600    Loss: 0.324819    MSE_Loss: 0.146559    Learning Rate: 0.000001    Test-PSNR: 16.740705490112305
+
+Fri Aug  1 01:47:51 2025
+Global Step: 29800    Loss: 0.323501    MSE_Loss: 0.148421    Learning Rate: 0.000001    Test-PSNR: 16.791736602783203
+
+Fri Aug  1 01:48:41 2025
+Global Step: 30000    Loss: 0.325407    MSE_Loss: 0.153009    Learning Rate: 0.000100    Test-PSNR: 16.752239227294922
+
+Fri Aug  1 01:49:32 2025
+Global Step: 30200    Loss: 0.389842    MSE_Loss: 0.238310    Learning Rate: 0.000100    Test-PSNR: 16.607513427734375
+
+Fri Aug  1 01:50:22 2025
+Global Step: 30400    Loss: 0.522452    MSE_Loss: 0.559924    Learning Rate: 0.000100    Test-PSNR: 16.818273544311523
+
+Fri Aug  1 01:51:14 2025
+Global Step: 30600    Loss: 0.597704    MSE_Loss: 0.806462    Learning Rate: 0.000100    Test-PSNR: 16.788990020751953
+
+Fri Aug  1 01:52:04 2025
+Global Step: 30800    Loss: 0.581937    MSE_Loss: 0.743622    Learning Rate: 0.000100    Test-PSNR: 16.94974136352539
+
+Fri Aug  1 01:52:55 2025
+Global Step: 31000    Loss: 0.603847    MSE_Loss: 0.860235    Learning Rate: 0.000100    Test-PSNR: 16.839035034179688
+
+Fri Aug  1 01:53:45 2025
+Global Step: 31200    Loss: 0.575802    MSE_Loss: 0.731686    Learning Rate: 0.000100    Test-PSNR: 16.53928565979004
+
+Fri Aug  1 01:54:36 2025
+Global Step: 31400    Loss: 0.571382    MSE_Loss: 0.719527    Learning Rate: 0.000100    Test-PSNR: 17.67901039123535
+
+Fri Aug  1 01:55:27 2025
+Global Step: 31600    Loss: 0.564454    MSE_Loss: 0.678275    Learning Rate: 0.000100    Test-PSNR: 16.899126052856445
+
+Fri Aug  1 01:56:17 2025
+Global Step: 31800    Loss: 0.553374    MSE_Loss: 0.659226    Learning Rate: 0.000100    Test-PSNR: 16.09717559814453
+
+Fri Aug  1 01:57:08 2025
+Global Step: 32000    Loss: 0.550929    MSE_Loss: 0.631186    Learning Rate: 0.000099    Test-PSNR: 16.587013244628906
+
+Fri Aug  1 01:57:59 2025
+Global Step: 32200    Loss: 0.563878    MSE_Loss: 0.639931    Learning Rate: 0.000099    Test-PSNR: 16.451587677001953
+
+Fri Aug  1 01:58:49 2025
+Global Step: 32400    Loss: 0.581964    MSE_Loss: 0.755672    Learning Rate: 0.000099    Test-PSNR: 16.78017807006836
+
+Fri Aug  1 01:59:40 2025
+Global Step: 32600    Loss: 0.569513    MSE_Loss: 0.718289    Learning Rate: 0.000099    Test-PSNR: 16.584548950195312
+
+Fri Aug  1 02:00:30 2025
+Global Step: 32800    Loss: 0.575192    MSE_Loss: 0.738741    Learning Rate: 0.000099    Test-PSNR: 17.39284324645996
+
+Fri Aug  1 02:01:21 2025
+Global Step: 33000    Loss: 0.586728    MSE_Loss: 0.818129    Learning Rate: 0.000099    Test-PSNR: 16.351160049438477
+
+Fri Aug  1 02:02:11 2025
+Global Step: 33200    Loss: 0.589268    MSE_Loss: 0.796512    Learning Rate: 0.000098    Test-PSNR: 16.67022705078125
+
+Fri Aug  1 02:03:02 2025
+Global Step: 33400    Loss: 0.575216    MSE_Loss: 0.773741    Learning Rate: 0.000098    Test-PSNR: 16.747066497802734
+
+Fri Aug  1 02:03:52 2025
+Global Step: 33600    Loss: 0.556234    MSE_Loss: 0.721202    Learning Rate: 0.000098    Test-PSNR: 16.560134887695312
+
+Fri Aug  1 02:04:43 2025
+Global Step: 33800    Loss: 0.518004    MSE_Loss: 0.589760    Learning Rate: 0.000098    Test-PSNR: 17.0256290435791
+
+Fri Aug  1 02:05:34 2025
+Global Step: 34000    Loss: 0.524150    MSE_Loss: 0.611888    Learning Rate: 0.000098    Test-PSNR: 16.451595306396484
+
+Fri Aug  1 02:06:24 2025
+Global Step: 34200    Loss: 0.500547    MSE_Loss: 0.513018    Learning Rate: 0.000097    Test-PSNR: 16.205650329589844
+
+Fri Aug  1 02:07:15 2025
+Global Step: 34400    Loss: 0.533214    MSE_Loss: 0.650441    Learning Rate: 0.000097    Test-PSNR: 17.08272933959961
+
+Fri Aug  1 02:08:05 2025
+Global Step: 34600    Loss: 0.512670    MSE_Loss: 0.545242    Learning Rate: 0.000097    Test-PSNR: 16.263011932373047
+
+Fri Aug  1 02:08:56 2025
+Global Step: 34800    Loss: 0.523147    MSE_Loss: 0.601338    Learning Rate: 0.000097    Test-PSNR: 15.876453399658203
+
+Fri Aug  1 02:09:47 2025
+Global Step: 35000    Loss: 0.516822    MSE_Loss: 0.593593    Learning Rate: 0.000096    Test-PSNR: 16.42585563659668
+
+Fri Aug  1 02:10:37 2025
+Global Step: 35200    Loss: 0.496902    MSE_Loss: 0.499941    Learning Rate: 0.000096    Test-PSNR: 16.808603286743164
+
+Fri Aug  1 02:11:28 2025
+Global Step: 35400    Loss: 0.493043    MSE_Loss: 0.498119    Learning Rate: 0.000096    Test-PSNR: 17.07677459716797
+
+Fri Aug  1 02:12:18 2025
+Global Step: 35600    Loss: 0.483423    MSE_Loss: 0.476926    Learning Rate: 0.000095    Test-PSNR: 16.74585723876953
+
+Fri Aug  1 02:13:09 2025
+Global Step: 35800    Loss: 0.455542    MSE_Loss: 0.398565    Learning Rate: 0.000095    Test-PSNR: 17.040040969848633
+
+Fri Aug  1 02:13:59 2025
+Global Step: 36000    Loss: 0.483708    MSE_Loss: 0.503342    Learning Rate: 0.000095    Test-PSNR: 16.95169448852539
+
+Fri Aug  1 02:14:50 2025
+Global Step: 36200    Loss: 0.512602    MSE_Loss: 0.593562    Learning Rate: 0.000094    Test-PSNR: 17.29864501953125
+
+Fri Aug  1 02:15:40 2025
+Global Step: 36400    Loss: 0.486396    MSE_Loss: 0.465962    Learning Rate: 0.000094    Test-PSNR: 16.446706771850586
+
+Fri Aug  1 02:16:31 2025
+Global Step: 36600    Loss: 0.505151    MSE_Loss: 0.557299    Learning Rate: 0.000093    Test-PSNR: 16.635013580322266
+
+Fri Aug  1 02:17:21 2025
+Global Step: 36800    Loss: 0.502416    MSE_Loss: 0.598287    Learning Rate: 0.000093    Test-PSNR: 16.25726890563965
+
+Fri Aug  1 02:18:12 2025
+Global Step: 37000    Loss: 0.475929    MSE_Loss: 0.471990    Learning Rate: 0.000093    Test-PSNR: 16.810680389404297
+
+Fri Aug  1 02:19:03 2025
+Global Step: 37200    Loss: 0.458139    MSE_Loss: 0.398706    Learning Rate: 0.000092    Test-PSNR: 17.226177215576172
+
+Fri Aug  1 02:19:53 2025
+Global Step: 37400    Loss: 0.472972    MSE_Loss: 0.428217    Learning Rate: 0.000092    Test-PSNR: 16.766294479370117
+
+Fri Aug  1 02:20:44 2025
+Global Step: 37600    Loss: 0.465164    MSE_Loss: 0.439063    Learning Rate: 0.000091    Test-PSNR: 16.791059494018555
+
+Fri Aug  1 02:21:35 2025
+Global Step: 37800    Loss: 0.494952    MSE_Loss: 0.538226    Learning Rate: 0.000091    Test-PSNR: 16.529457092285156
+
+Fri Aug  1 02:22:25 2025
+Global Step: 38000    Loss: 0.482425    MSE_Loss: 0.466717    Learning Rate: 0.000091    Test-PSNR: 16.48099136352539
+
+Fri Aug  1 02:23:16 2025
+Global Step: 38200    Loss: 0.469444    MSE_Loss: 0.443829    Learning Rate: 0.000090    Test-PSNR: 16.925065994262695
+
+Fri Aug  1 02:24:06 2025
+Global Step: 38400    Loss: 0.471885    MSE_Loss: 0.463317    Learning Rate: 0.000090    Test-PSNR: 16.631921768188477
+
+Fri Aug  1 02:24:57 2025
+Global Step: 38600    Loss: 0.468312    MSE_Loss: 0.438427    Learning Rate: 0.000089    Test-PSNR: 17.16301727294922
+
+Fri Aug  1 02:25:48 2025
+Global Step: 38800    Loss: 0.459784    MSE_Loss: 0.422350    Learning Rate: 0.000089    Test-PSNR: 16.598134994506836
+
+Fri Aug  1 02:26:39 2025
+Global Step: 39000    Loss: 0.470677    MSE_Loss: 0.450899    Learning Rate: 0.000088    Test-PSNR: 16.391521453857422
+
+Fri Aug  1 02:27:29 2025
+Global Step: 39200    Loss: 0.451738    MSE_Loss: 0.402450    Learning Rate: 0.000088    Test-PSNR: 16.736331939697266
+
+Fri Aug  1 02:28:20 2025
+Global Step: 39400    Loss: 0.427797    MSE_Loss: 0.349317    Learning Rate: 0.000087    Test-PSNR: 16.80179214477539
+
+Fri Aug  1 02:29:11 2025
+Global Step: 39600    Loss: 0.439274    MSE_Loss: 0.383567    Learning Rate: 0.000087    Test-PSNR: 16.780118942260742
+
+Fri Aug  1 02:30:01 2025
+Global Step: 39800    Loss: 0.424037    MSE_Loss: 0.354361    Learning Rate: 0.000086    Test-PSNR: 16.23726463317871
+
+Fri Aug  1 02:30:52 2025
+Global Step: 40000    Loss: 0.436522    MSE_Loss: 0.385520    Learning Rate: 0.000086    Test-PSNR: 16.269567489624023
+
+Fri Aug  1 02:31:43 2025
+Global Step: 40200    Loss: 0.423486    MSE_Loss: 0.338952    Learning Rate: 0.000085    Test-PSNR: 16.057125091552734
+
+Fri Aug  1 02:32:33 2025
+Global Step: 40400    Loss: 0.440948    MSE_Loss: 0.394574    Learning Rate: 0.000084    Test-PSNR: 16.469581604003906
+
+Fri Aug  1 02:33:24 2025
+Global Step: 40600    Loss: 0.437842    MSE_Loss: 0.414327    Learning Rate: 0.000084    Test-PSNR: 15.97192096710205
+
+Fri Aug  1 02:34:14 2025
+Global Step: 40800    Loss: 0.473673    MSE_Loss: 0.517273    Learning Rate: 0.000083    Test-PSNR: 16.84904670715332
+
+Fri Aug  1 02:35:05 2025
+Global Step: 41000    Loss: 0.457783    MSE_Loss: 0.455420    Learning Rate: 0.000083    Test-PSNR: 16.216428756713867
+
+Fri Aug  1 02:35:55 2025
+Global Step: 41200    Loss: 0.458061    MSE_Loss: 0.456620    Learning Rate: 0.000082    Test-PSNR: 16.098312377929688
+
+Fri Aug  1 02:36:46 2025
+Global Step: 41400    Loss: 0.464666    MSE_Loss: 0.473358    Learning Rate: 0.000081    Test-PSNR: 16.340560913085938
+
+Fri Aug  1 02:37:37 2025
+Global Step: 41600    Loss: 0.442028    MSE_Loss: 0.416328    Learning Rate: 0.000081    Test-PSNR: 15.943897247314453
+
+Fri Aug  1 02:38:27 2025
+Global Step: 41800    Loss: 0.454062    MSE_Loss: 0.456004    Learning Rate: 0.000080    Test-PSNR: 16.259231567382812
+
+Fri Aug  1 02:39:18 2025
+Global Step: 42000    Loss: 0.464564    MSE_Loss: 0.482803    Learning Rate: 0.000080    Test-PSNR: 16.626123428344727
+
+Fri Aug  1 02:40:09 2025
+Global Step: 42200    Loss: 0.424072    MSE_Loss: 0.354131    Learning Rate: 0.000079    Test-PSNR: 16.5252685546875
+
+Fri Aug  1 02:40:59 2025
+Global Step: 42400    Loss: 0.427017    MSE_Loss: 0.351850    Learning Rate: 0.000078    Test-PSNR: 16.319072723388672
+
+Fri Aug  1 02:41:50 2025
+Global Step: 42600    Loss: 0.427964    MSE_Loss: 0.399564    Learning Rate: 0.000078    Test-PSNR: 16.020740509033203
+
+Fri Aug  1 02:42:40 2025
+Global Step: 42800    Loss: 0.441392    MSE_Loss: 0.409566    Learning Rate: 0.000077    Test-PSNR: 16.868444442749023
+
+Fri Aug  1 02:43:31 2025
+Global Step: 43000    Loss: 0.437430    MSE_Loss: 0.432428    Learning Rate: 0.000076    Test-PSNR: 16.443517684936523
+
+Fri Aug  1 02:44:21 2025
+Global Step: 43200    Loss: 0.427374    MSE_Loss: 0.372210    Learning Rate: 0.000076    Test-PSNR: 16.244142532348633
+
+Fri Aug  1 02:45:12 2025
+Global Step: 43400    Loss: 0.398017    MSE_Loss: 0.296915    Learning Rate: 0.000075    Test-PSNR: 16.075786590576172
+
+Fri Aug  1 02:46:03 2025
+Global Step: 43600    Loss: 0.400296    MSE_Loss: 0.313119    Learning Rate: 0.000074    Test-PSNR: 15.851243019104004
+
+Fri Aug  1 02:46:53 2025
+Global Step: 43800    Loss: 0.406092    MSE_Loss: 0.302517    Learning Rate: 0.000074    Test-PSNR: 16.850173950195312
+
+Fri Aug  1 02:47:44 2025
+Global Step: 44000    Loss: 0.398995    MSE_Loss: 0.302408    Learning Rate: 0.000073    Test-PSNR: 16.814735412597656
+
+Fri Aug  1 02:48:35 2025
+Global Step: 44200    Loss: 0.408972    MSE_Loss: 0.346115    Learning Rate: 0.000072    Test-PSNR: 16.746986389160156
+
+Fri Aug  1 02:49:25 2025
+Global Step: 44400    Loss: 0.413158    MSE_Loss: 0.362567    Learning Rate: 0.000072    Test-PSNR: 16.605195999145508
+
+Fri Aug  1 02:50:16 2025
+Global Step: 44600    Loss: 0.411955    MSE_Loss: 0.348979    Learning Rate: 0.000071    Test-PSNR: 16.178773880004883
+
+Fri Aug  1 02:51:06 2025
+Global Step: 44800    Loss: 0.404036    MSE_Loss: 0.318854    Learning Rate: 0.000070    Test-PSNR: 16.29353141784668
+
+Fri Aug  1 02:51:57 2025
+Global Step: 45000    Loss: 0.406494    MSE_Loss: 0.316849    Learning Rate: 0.000069    Test-PSNR: 16.26082992553711
+
+Fri Aug  1 02:52:48 2025
+Global Step: 45200    Loss: 0.390175    MSE_Loss: 0.305922    Learning Rate: 0.000069    Test-PSNR: 16.25809097290039
+
+Fri Aug  1 02:53:39 2025
+Global Step: 45400    Loss: 0.386035    MSE_Loss: 0.297178    Learning Rate: 0.000068    Test-PSNR: 15.855711936950684
+
+Fri Aug  1 02:54:29 2025
+Global Step: 45600    Loss: 0.393661    MSE_Loss: 0.302880    Learning Rate: 0.000067    Test-PSNR: 16.347318649291992
+
+Fri Aug  1 02:55:20 2025
+Global Step: 45800    Loss: 0.395638    MSE_Loss: 0.343939    Learning Rate: 0.000067    Test-PSNR: 16.312374114990234
+
+Fri Aug  1 02:56:10 2025
+Global Step: 46000    Loss: 0.399784    MSE_Loss: 0.326836    Learning Rate: 0.000066    Test-PSNR: 16.467632293701172
+
+Fri Aug  1 02:57:01 2025
+Global Step: 46200    Loss: 0.396254    MSE_Loss: 0.312557    Learning Rate: 0.000065    Test-PSNR: 16.342012405395508
+
+Fri Aug  1 02:57:51 2025
+Global Step: 46400    Loss: 0.397630    MSE_Loss: 0.312986    Learning Rate: 0.000064    Test-PSNR: 16.413166046142578
+
+Fri Aug  1 02:58:42 2025
+Global Step: 46600    Loss: 0.398048    MSE_Loss: 0.315559    Learning Rate: 0.000064    Test-PSNR: 16.158681869506836
+
+Fri Aug  1 02:59:33 2025
+Global Step: 46800    Loss: 0.400292    MSE_Loss: 0.332729    Learning Rate: 0.000063    Test-PSNR: 16.16400718688965
+
+Fri Aug  1 03:00:23 2025
+Global Step: 47000    Loss: 0.392264    MSE_Loss: 0.309133    Learning Rate: 0.000062    Test-PSNR: 15.405128479003906
+
+Fri Aug  1 03:01:14 2025
+Global Step: 47200    Loss: 0.387139    MSE_Loss: 0.285341    Learning Rate: 0.000061    Test-PSNR: 15.337949752807617
+
+Fri Aug  1 03:02:05 2025
+Global Step: 47400    Loss: 0.396441    MSE_Loss: 0.316566    Learning Rate: 0.000061    Test-PSNR: 15.806446075439453
+
+Fri Aug  1 03:02:55 2025
+Global Step: 47600    Loss: 0.390794    MSE_Loss: 0.323674    Learning Rate: 0.000060    Test-PSNR: 16.723833084106445
+
+Fri Aug  1 03:03:46 2025
+Global Step: 47800    Loss: 0.368899    MSE_Loss: 0.260818    Learning Rate: 0.000059    Test-PSNR: 16.200298309326172
+
+Fri Aug  1 03:04:36 2025
+Global Step: 48000    Loss: 0.362744    MSE_Loss: 0.242949    Learning Rate: 0.000058    Test-PSNR: 16.009899139404297
+
+Fri Aug  1 03:05:27 2025
+Global Step: 48200    Loss: 0.366395    MSE_Loss: 0.238088    Learning Rate: 0.000057    Test-PSNR: 16.188934326171875
+
+Fri Aug  1 03:06:17 2025
+Global Step: 48400    Loss: 0.350823    MSE_Loss: 0.215975    Learning Rate: 0.000057    Test-PSNR: 16.011369705200195
+
+Fri Aug  1 03:07:08 2025
+Global Step: 48600    Loss: 0.363780    MSE_Loss: 0.244604    Learning Rate: 0.000056    Test-PSNR: 16.143701553344727
+
+Fri Aug  1 03:07:59 2025
+Global Step: 48800    Loss: 0.388162    MSE_Loss: 0.312156    Learning Rate: 0.000055    Test-PSNR: 16.38616371154785
+
+Fri Aug  1 03:08:50 2025
+Global Step: 49000    Loss: 0.368451    MSE_Loss: 0.247914    Learning Rate: 0.000054    Test-PSNR: 16.307767868041992
+
+Fri Aug  1 03:09:41 2025
+Global Step: 49200    Loss: 0.361413    MSE_Loss: 0.237231    Learning Rate: 0.000054    Test-PSNR: 16.568038940429688
+
+Fri Aug  1 03:10:32 2025
+Global Step: 49400    Loss: 0.353345    MSE_Loss: 0.243593    Learning Rate: 0.000053    Test-PSNR: 16.388534545898438
+
+Fri Aug  1 03:11:22 2025
+Global Step: 49600    Loss: 0.345605    MSE_Loss: 0.207776    Learning Rate: 0.000052    Test-PSNR: 16.434316635131836
+
+Fri Aug  1 03:12:13 2025
+Global Step: 49800    Loss: 0.347263    MSE_Loss: 0.214388    Learning Rate: 0.000051    Test-PSNR: 16.44278335571289
+
+Fri Aug  1 03:13:03 2025
+Global Step: 50000    Loss: 0.348298    MSE_Loss: 0.209690    Learning Rate: 0.000051    Test-PSNR: 16.07189178466797
+
+Fri Aug  1 03:13:54 2025
+Global Step: 50200    Loss: 0.353808    MSE_Loss: 0.229999    Learning Rate: 0.000050    Test-PSNR: 15.97938346862793
+
+Fri Aug  1 03:14:44 2025
+Global Step: 50400    Loss: 0.342965    MSE_Loss: 0.213541    Learning Rate: 0.000049    Test-PSNR: 16.016218185424805
+
+Fri Aug  1 03:15:35 2025
+Global Step: 50600    Loss: 0.336422    MSE_Loss: 0.192119    Learning Rate: 0.000048    Test-PSNR: 15.826681137084961
+
+Fri Aug  1 03:16:25 2025
+Global Step: 50800    Loss: 0.339367    MSE_Loss: 0.199440    Learning Rate: 0.000047    Test-PSNR: 15.865336418151855
+
+Fri Aug  1 03:17:16 2025
+Global Step: 51000    Loss: 0.341109    MSE_Loss: 0.204823    Learning Rate: 0.000047    Test-PSNR: 16.070606231689453
+
+Fri Aug  1 03:18:07 2025
+Global Step: 51200    Loss: 0.336694    MSE_Loss: 0.198722    Learning Rate: 0.000046    Test-PSNR: 15.837766647338867
+
+Fri Aug  1 03:18:57 2025
+Global Step: 51400    Loss: 0.337882    MSE_Loss: 0.187940    Learning Rate: 0.000045    Test-PSNR: 16.09423828125
+
+Fri Aug  1 03:19:48 2025
+Global Step: 51600    Loss: 0.345244    MSE_Loss: 0.203674    Learning Rate: 0.000044    Test-PSNR: 15.921334266662598
+
+Fri Aug  1 03:20:39 2025
+Global Step: 51800    Loss: 0.345359    MSE_Loss: 0.220287    Learning Rate: 0.000044    Test-PSNR: 16.037960052490234
+
+Fri Aug  1 03:21:29 2025
+Global Step: 52000    Loss: 0.350107    MSE_Loss: 0.233326    Learning Rate: 0.000043    Test-PSNR: 15.872467994689941
+
+Fri Aug  1 03:22:20 2025
+Global Step: 52200    Loss: 0.343930    MSE_Loss: 0.211981    Learning Rate: 0.000042    Test-PSNR: 16.40165901184082
+
+Fri Aug  1 03:23:10 2025
+Global Step: 52400    Loss: 0.338718    MSE_Loss: 0.192481    Learning Rate: 0.000041    Test-PSNR: 15.933073043823242
+
+Fri Aug  1 03:24:01 2025
+Global Step: 52600    Loss: 0.335367    MSE_Loss: 0.204983    Learning Rate: 0.000040    Test-PSNR: 15.843343734741211
+
+Fri Aug  1 03:24:51 2025
+Global Step: 52800    Loss: 0.328399    MSE_Loss: 0.187662    Learning Rate: 0.000040    Test-PSNR: 15.831716537475586
+
+Fri Aug  1 03:25:42 2025
+Global Step: 53000    Loss: 0.326884    MSE_Loss: 0.175716    Learning Rate: 0.000039    Test-PSNR: 16.13623809814453
+
+Fri Aug  1 03:26:33 2025
+Global Step: 53200    Loss: 0.338481    MSE_Loss: 0.195493    Learning Rate: 0.000038    Test-PSNR: 16.0594482421875
+
+Fri Aug  1 03:27:24 2025
+Global Step: 53400    Loss: 0.325177    MSE_Loss: 0.182374    Learning Rate: 0.000037    Test-PSNR: 15.806100845336914
+
+Fri Aug  1 03:28:14 2025
+Global Step: 53600    Loss: 0.331998    MSE_Loss: 0.197521    Learning Rate: 0.000037    Test-PSNR: 16.072750091552734
+
+Fri Aug  1 03:29:05 2025
+Global Step: 53800    Loss: 0.329054    MSE_Loss: 0.207048    Learning Rate: 0.000036    Test-PSNR: 16.172487258911133
+
+Fri Aug  1 03:29:55 2025
+Global Step: 54000    Loss: 0.328629    MSE_Loss: 0.182275    Learning Rate: 0.000035    Test-PSNR: 15.887032508850098
+
+Fri Aug  1 03:30:46 2025
+Global Step: 54200    Loss: 0.319847    MSE_Loss: 0.189721    Learning Rate: 0.000034    Test-PSNR: 15.950499534606934
+
+Fri Aug  1 03:31:36 2025
+Global Step: 54400    Loss: 0.315973    MSE_Loss: 0.157583    Learning Rate: 0.000034    Test-PSNR: 15.807973861694336
+
+Fri Aug  1 03:32:27 2025
+Global Step: 54600    Loss: 0.323469    MSE_Loss: 0.180532    Learning Rate: 0.000033    Test-PSNR: 15.875349044799805
+
+Fri Aug  1 03:33:18 2025
+Global Step: 54800    Loss: 0.320919    MSE_Loss: 0.185845    Learning Rate: 0.000032    Test-PSNR: 16.050573348999023
+
+Fri Aug  1 03:34:09 2025
+Global Step: 55000    Loss: 0.307372    MSE_Loss: 0.155678    Learning Rate: 0.000032    Test-PSNR: 15.925045013427734
+
+Fri Aug  1 03:34:59 2025
+Global Step: 55200    Loss: 0.305676    MSE_Loss: 0.144542    Learning Rate: 0.000031    Test-PSNR: 16.066303253173828
+
+Fri Aug  1 03:35:50 2025
+Global Step: 55400    Loss: 0.298533    MSE_Loss: 0.134842    Learning Rate: 0.000030    Test-PSNR: 15.785492897033691
+
+Fri Aug  1 03:36:40 2025
+Global Step: 55600    Loss: 0.302150    MSE_Loss: 0.148783    Learning Rate: 0.000029    Test-PSNR: 15.783397674560547
+
+Fri Aug  1 03:37:31 2025
+Global Step: 55800    Loss: 0.302368    MSE_Loss: 0.150059    Learning Rate: 0.000029    Test-PSNR: 16.126174926757812
+
+Fri Aug  1 03:38:21 2025
+Global Step: 56000    Loss: 0.311010    MSE_Loss: 0.153731    Learning Rate: 0.000028    Test-PSNR: 15.916770935058594
+
+Fri Aug  1 03:39:12 2025
+Global Step: 56200    Loss: 0.301266    MSE_Loss: 0.145356    Learning Rate: 0.000027    Test-PSNR: 15.920061111450195
+
+Fri Aug  1 03:40:03 2025
+Global Step: 56400    Loss: 0.301628    MSE_Loss: 0.171151    Learning Rate: 0.000027    Test-PSNR: 15.921875953674316
+
+Fri Aug  1 03:40:53 2025
+Global Step: 56600    Loss: 0.305992    MSE_Loss: 0.153656    Learning Rate: 0.000026    Test-PSNR: 16.219409942626953
+
+Fri Aug  1 03:41:44 2025
+Global Step: 56800    Loss: 0.304797    MSE_Loss: 0.146911    Learning Rate: 0.000025    Test-PSNR: 15.800512313842773
+
+Fri Aug  1 03:42:35 2025
+Global Step: 57000    Loss: 0.308893    MSE_Loss: 0.166967    Learning Rate: 0.000025    Test-PSNR: 15.795089721679688
+
+Fri Aug  1 03:43:25 2025
+Global Step: 57200    Loss: 0.305867    MSE_Loss: 0.168451    Learning Rate: 0.000024    Test-PSNR: 16.093393325805664
+
+Fri Aug  1 03:44:16 2025
+Global Step: 57400    Loss: 0.303770    MSE_Loss: 0.154657    Learning Rate: 0.000023    Test-PSNR: 15.982871055603027
+
+Fri Aug  1 03:45:06 2025
+Global Step: 57600    Loss: 0.286619    MSE_Loss: 0.142078    Learning Rate: 0.000023    Test-PSNR: 16.196834564208984
+
+Fri Aug  1 03:45:57 2025
+Global Step: 57800    Loss: 0.285127    MSE_Loss: 0.120120    Learning Rate: 0.000022    Test-PSNR: 15.968096733093262
+
+Fri Aug  1 03:46:47 2025
+Global Step: 58000    Loss: 0.284889    MSE_Loss: 0.121563    Learning Rate: 0.000021    Test-PSNR: 16.037105560302734
+
+Fri Aug  1 03:47:38 2025
+Global Step: 58200    Loss: 0.281678    MSE_Loss: 0.119301    Learning Rate: 0.000021    Test-PSNR: 16.198423385620117
+
+Fri Aug  1 03:48:29 2025
+Global Step: 58400    Loss: 0.287822    MSE_Loss: 0.130723    Learning Rate: 0.000020    Test-PSNR: 15.996621131896973
+
+Fri Aug  1 03:49:19 2025
+Global Step: 58600    Loss: 0.286325    MSE_Loss: 0.132490    Learning Rate: 0.000020    Test-PSNR: 15.930830001831055
+
+Fri Aug  1 03:50:10 2025
+Global Step: 58800    Loss: 0.279887    MSE_Loss: 0.119723    Learning Rate: 0.000019    Test-PSNR: 15.885234832763672
+
+Fri Aug  1 03:51:01 2025
+Global Step: 59000    Loss: 0.279506    MSE_Loss: 0.114571    Learning Rate: 0.000018    Test-PSNR: 15.878255844116211
+
+Fri Aug  1 03:51:51 2025
+Global Step: 59200    Loss: 0.275984    MSE_Loss: 0.115176    Learning Rate: 0.000018    Test-PSNR: 16.029647827148438
+
+Fri Aug  1 03:52:42 2025
+Global Step: 59400    Loss: 0.272179    MSE_Loss: 0.107036    Learning Rate: 0.000017    Test-PSNR: 15.749994277954102
+
+Fri Aug  1 03:53:32 2025
+Global Step: 59600    Loss: 0.273038    MSE_Loss: 0.117430    Learning Rate: 0.000017    Test-PSNR: 15.94162654876709
+
+Fri Aug  1 03:54:23 2025
+Global Step: 59800    Loss: 0.270215    MSE_Loss: 0.103658    Learning Rate: 0.000016    Test-PSNR: 15.982828140258789
+
+Fri Aug  1 03:55:13 2025
+Global Step: 60000    Loss: 0.269663    MSE_Loss: 0.106236    Learning Rate: 0.000015    Test-PSNR: 16.225051879882812
+
+Fri Aug  1 03:56:04 2025
+Global Step: 60200    Loss: 0.271799    MSE_Loss: 0.127385    Learning Rate: 0.000015    Test-PSNR: 15.973405838012695
+
+Fri Aug  1 03:56:54 2025
+Global Step: 60400    Loss: 0.269400    MSE_Loss: 0.109777    Learning Rate: 0.000014    Test-PSNR: 15.997035026550293
+
+Fri Aug  1 03:57:45 2025
+Global Step: 60600    Loss: 0.265060    MSE_Loss: 0.103250    Learning Rate: 0.000014    Test-PSNR: 15.936145782470703
+
+Fri Aug  1 03:58:36 2025
+Global Step: 60800    Loss: 0.265847    MSE_Loss: 0.105588    Learning Rate: 0.000013    Test-PSNR: 15.861061096191406
+
+Fri Aug  1 03:59:27 2025
+Global Step: 61000    Loss: 0.269414    MSE_Loss: 0.127502    Learning Rate: 0.000013    Test-PSNR: 16.017379760742188
+
+Fri Aug  1 04:00:17 2025
+Global Step: 61200    Loss: 0.265293    MSE_Loss: 0.112852    Learning Rate: 0.000012    Test-PSNR: 15.977431297302246
+
+Fri Aug  1 04:01:08 2025
+Global Step: 61400    Loss: 0.261411    MSE_Loss: 0.097138    Learning Rate: 0.000012    Test-PSNR: 15.951354026794434
+
+Fri Aug  1 04:01:58 2025
+Global Step: 61600    Loss: 0.259673    MSE_Loss: 0.092821    Learning Rate: 0.000011    Test-PSNR: 15.932306289672852
+
+Fri Aug  1 04:02:50 2025
+Global Step: 61800    Loss: 0.257121    MSE_Loss: 0.090983    Learning Rate: 0.000011    Test-PSNR: 15.952336311340332
+
+Fri Aug  1 04:03:40 2025
+Global Step: 62000    Loss: 0.251408    MSE_Loss: 0.083656    Learning Rate: 0.000010    Test-PSNR: 16.043514251708984
+
+Fri Aug  1 04:04:31 2025
+Global Step: 62200    Loss: 0.252829    MSE_Loss: 0.087396    Learning Rate: 0.000010    Test-PSNR: 16.086597442626953
+
+Fri Aug  1 04:05:22 2025
+Global Step: 62400    Loss: 0.250940    MSE_Loss: 0.084235    Learning Rate: 0.000010    Test-PSNR: 15.995509147644043
+
+Fri Aug  1 04:06:13 2025
+Global Step: 62600    Loss: 0.251125    MSE_Loss: 0.084137    Learning Rate: 0.000009    Test-PSNR: 16.062925338745117
+
+Fri Aug  1 04:07:03 2025
+Global Step: 62800    Loss: 0.250905    MSE_Loss: 0.085719    Learning Rate: 0.000009    Test-PSNR: 16.195423126220703
+
+Fri Aug  1 04:07:54 2025
+Global Step: 63000    Loss: 0.251920    MSE_Loss: 0.088506    Learning Rate: 0.000008    Test-PSNR: 16.01275634765625
+
+Fri Aug  1 04:08:44 2025
+Global Step: 63200    Loss: 0.250773    MSE_Loss: 0.087956    Learning Rate: 0.000008    Test-PSNR: 16.048641204833984
+
+Fri Aug  1 04:09:35 2025
+Global Step: 63400    Loss: 0.249424    MSE_Loss: 0.087132    Learning Rate: 0.000008    Test-PSNR: 16.060070037841797
+
+Fri Aug  1 04:10:25 2025
+Global Step: 63600    Loss: 0.247568    MSE_Loss: 0.085660    Learning Rate: 0.000007    Test-PSNR: 16.1330509185791
+
+Fri Aug  1 04:11:16 2025
+Global Step: 63800    Loss: 0.247021    MSE_Loss: 0.090613    Learning Rate: 0.000007    Test-PSNR: 16.111530303955078
+
+Fri Aug  1 04:12:06 2025
+Global Step: 64000    Loss: 0.242932    MSE_Loss: 0.080208    Learning Rate: 0.000006    Test-PSNR: 15.993387222290039
+
+Fri Aug  1 04:12:57 2025
+Global Step: 64200    Loss: 0.241136    MSE_Loss: 0.077299    Learning Rate: 0.000006    Test-PSNR: 16.03103256225586
+
+Fri Aug  1 04:13:48 2025
+Global Step: 64400    Loss: 0.242615    MSE_Loss: 0.079702    Learning Rate: 0.000006    Test-PSNR: 15.963139533996582
+
+Fri Aug  1 04:14:38 2025
+Global Step: 64600    Loss: 0.240735    MSE_Loss: 0.077520    Learning Rate: 0.000005    Test-PSNR: 16.026187896728516
+
+Fri Aug  1 04:15:29 2025
+Global Step: 64800    Loss: 0.240882    MSE_Loss: 0.077916    Learning Rate: 0.000005    Test-PSNR: 15.9008150100708
+
+Fri Aug  1 04:16:20 2025
+Global Step: 65000    Loss: 0.237179    MSE_Loss: 0.074607    Learning Rate: 0.000005    Test-PSNR: 15.981878280639648
+
+Fri Aug  1 04:17:10 2025
+Global Step: 65200    Loss: 0.237560    MSE_Loss: 0.074165    Learning Rate: 0.000004    Test-PSNR: 15.874358177185059
+
+Fri Aug  1 04:18:01 2025
+Global Step: 65400    Loss: 0.238705    MSE_Loss: 0.100564    Learning Rate: 0.000004    Test-PSNR: 15.884828567504883
+
+Fri Aug  1 04:18:52 2025
+Global Step: 65600    Loss: 0.236174    MSE_Loss: 0.074768    Learning Rate: 0.000004    Test-PSNR: 15.94847583770752
+
+Fri Aug  1 04:19:42 2025
+Global Step: 65800    Loss: 0.235995    MSE_Loss: 0.072932    Learning Rate: 0.000004    Test-PSNR: 15.908652305603027
+
+Fri Aug  1 04:20:33 2025
+Global Step: 66000    Loss: 0.235220    MSE_Loss: 0.071779    Learning Rate: 0.000003    Test-PSNR: 15.894752502441406
+
+Fri Aug  1 04:21:24 2025
+Global Step: 66200    Loss: 0.236277    MSE_Loss: 0.073094    Learning Rate: 0.000003    Test-PSNR: 15.925045013427734
+
+Fri Aug  1 04:22:14 2025
+Global Step: 66400    Loss: 0.235986    MSE_Loss: 0.074829    Learning Rate: 0.000003    Test-PSNR: 15.972760200500488
+
+Fri Aug  1 04:23:05 2025
+Global Step: 66600    Loss: 0.235768    MSE_Loss: 0.073748    Learning Rate: 0.000003    Test-PSNR: 15.959803581237793
+
+Fri Aug  1 04:23:55 2025
+Global Step: 66800    Loss: 0.234130    MSE_Loss: 0.071704    Learning Rate: 0.000003    Test-PSNR: 15.87841796875
+
+Fri Aug  1 04:24:46 2025
+Global Step: 67000    Loss: 0.232818    MSE_Loss: 0.070283    Learning Rate: 0.000002    Test-PSNR: 15.963583946228027
+
+Fri Aug  1 04:25:37 2025
+Global Step: 67200    Loss: 0.232596    MSE_Loss: 0.071754    Learning Rate: 0.000002    Test-PSNR: 15.887741088867188
+
+Fri Aug  1 04:26:28 2025
+Global Step: 67400    Loss: 0.230807    MSE_Loss: 0.069356    Learning Rate: 0.000002    Test-PSNR: 15.926379203796387
+
+Fri Aug  1 04:27:18 2025
+Global Step: 67600    Loss: 0.231863    MSE_Loss: 0.069501    Learning Rate: 0.000002    Test-PSNR: 15.941238403320312
+
+Fri Aug  1 04:28:09 2025
+Global Step: 67800    Loss: 0.230813    MSE_Loss: 0.068789    Learning Rate: 0.000002    Test-PSNR: 15.84527587890625
+
+Fri Aug  1 04:28:59 2025
+Global Step: 68000    Loss: 0.228874    MSE_Loss: 0.067184    Learning Rate: 0.000002    Test-PSNR: 15.960002899169922
+
+Fri Aug  1 04:29:50 2025
+Global Step: 68200    Loss: 0.229157    MSE_Loss: 0.066789    Learning Rate: 0.000001    Test-PSNR: 15.915523529052734
+
+Fri Aug  1 04:30:41 2025
+Global Step: 68400    Loss: 0.230587    MSE_Loss: 0.089238    Learning Rate: 0.000001    Test-PSNR: 15.946525573730469
+
+Fri Aug  1 04:31:32 2025
+Global Step: 68600    Loss: 0.225953    MSE_Loss: 0.064037    Learning Rate: 0.000001    Test-PSNR: 15.873225212097168
+
+Fri Aug  1 04:32:22 2025
+Global Step: 68800    Loss: 0.226592    MSE_Loss: 0.064439    Learning Rate: 0.000001    Test-PSNR: 15.908642768859863
+
+Fri Aug  1 04:33:13 2025
+Global Step: 69000    Loss: 0.225467    MSE_Loss: 0.063744    Learning Rate: 0.000001    Test-PSNR: 15.836236953735352
+
+Fri Aug  1 04:34:03 2025
+Global Step: 69200    Loss: 0.226974    MSE_Loss: 0.066714    Learning Rate: 0.000001    Test-PSNR: 15.853431701660156
+
+Fri Aug  1 04:34:54 2025
+Global Step: 69400    Loss: 0.226882    MSE_Loss: 0.064555    Learning Rate: 0.000001    Test-PSNR: 15.897645950317383
+
+Fri Aug  1 04:35:45 2025
+Global Step: 69600    Loss: 0.226339    MSE_Loss: 0.076102    Learning Rate: 0.000001    Test-PSNR: 15.900201797485352
+
+Fri Aug  1 04:36:36 2025
+Global Step: 69800    Loss: 0.226151    MSE_Loss: 0.070187    Learning Rate: 0.000001    Test-PSNR: 15.885780334472656
+
+Fri Aug  1 04:37:26 2025
+Global Step: 70000    Loss: 0.225732    MSE_Loss: 0.072423    Learning Rate: 0.000100    Test-PSNR: 15.892431259155273
+
+Fri Aug  1 04:38:17 2025
+Global Step: 70200    Loss: 0.291335    MSE_Loss: 0.134618    Learning Rate: 0.000100    Test-PSNR: 16.47882652282715
+
+Fri Aug  1 04:39:07 2025
+Global Step: 70400    Loss: 0.436305    MSE_Loss: 0.431244    Learning Rate: 0.000100    Test-PSNR: 16.63332748413086
+
+Fri Aug  1 04:39:58 2025
+Global Step: 70600    Loss: 0.497423    MSE_Loss: 0.555325    Learning Rate: 0.000100    Test-PSNR: 16.77404022216797
+
+Fri Aug  1 04:40:48 2025
+Global Step: 70800    Loss: 0.530994    MSE_Loss: 0.706119    Learning Rate: 0.000100    Test-PSNR: 17.007797241210938
+
+Fri Aug  1 04:41:39 2025
+Global Step: 71000    Loss: 0.545525    MSE_Loss: 0.786749    Learning Rate: 0.000100    Test-PSNR: 16.26561164855957
+
+Fri Aug  1 04:42:30 2025
+Global Step: 71200    Loss: 0.502526    MSE_Loss: 0.649061    Learning Rate: 0.000100    Test-PSNR: 16.09322738647461
+
+Fri Aug  1 04:43:21 2025
+Global Step: 71400    Loss: 0.489116    MSE_Loss: 0.600334    Learning Rate: 0.000100    Test-PSNR: 15.479192733764648
+
+Fri Aug  1 04:44:11 2025
+Global Step: 71600    Loss: 0.472061    MSE_Loss: 0.504032    Learning Rate: 0.000100    Test-PSNR: 16.57155990600586
+
+Fri Aug  1 04:45:02 2025
+Global Step: 71800    Loss: 0.454804    MSE_Loss: 0.455403    Learning Rate: 0.000100    Test-PSNR: 16.272022247314453
+
+Fri Aug  1 04:45:52 2025
+Global Step: 72000    Loss: 0.457010    MSE_Loss: 0.449130    Learning Rate: 0.000100    Test-PSNR: 16.418731689453125
+
+Fri Aug  1 04:46:43 2025
+Global Step: 72200    Loss: 0.443581    MSE_Loss: 0.405608    Learning Rate: 0.000100    Test-PSNR: 16.726966857910156
+
+Fri Aug  1 04:47:34 2025
+Global Step: 72400    Loss: 0.415710    MSE_Loss: 0.346299    Learning Rate: 0.000100    Test-PSNR: 16.21994400024414
+
+Fri Aug  1 04:48:25 2025
+Global Step: 72600    Loss: 0.434909    MSE_Loss: 0.389272    Learning Rate: 0.000100    Test-PSNR: 16.49813461303711
+
+Fri Aug  1 04:49:15 2025
+Global Step: 72800    Loss: 0.451322    MSE_Loss: 0.491689    Learning Rate: 0.000100    Test-PSNR: 16.405811309814453
+
+Fri Aug  1 04:50:06 2025
+Global Step: 73000    Loss: 0.424082    MSE_Loss: 0.397236    Learning Rate: 0.000100    Test-PSNR: 16.311214447021484
+
+Fri Aug  1 04:50:56 2025
+Global Step: 73200    Loss: 0.429878    MSE_Loss: 0.367535    Learning Rate: 0.000100    Test-PSNR: 16.224037170410156
+
+Fri Aug  1 04:51:47 2025
+Global Step: 73400    Loss: 0.456193    MSE_Loss: 0.494901    Learning Rate: 0.000100    Test-PSNR: 16.317363739013672
+
+Fri Aug  1 04:52:38 2025
+Global Step: 73600    Loss: 0.477204    MSE_Loss: 0.616778    Learning Rate: 0.000100    Test-PSNR: 16.22735595703125
+
+Fri Aug  1 04:53:29 2025
+Global Step: 73800    Loss: 0.453084    MSE_Loss: 0.498946    Learning Rate: 0.000099    Test-PSNR: 16.291296005249023
+
+Fri Aug  1 04:54:19 2025
+Global Step: 74000    Loss: 0.453541    MSE_Loss: 0.473155    Learning Rate: 0.000099    Test-PSNR: 16.87789535522461
+
+Fri Aug  1 04:55:10 2025
+Global Step: 74200    Loss: 0.475886    MSE_Loss: 0.541500    Learning Rate: 0.000099    Test-PSNR: 16.110267639160156
+
+Fri Aug  1 04:56:00 2025
+Global Step: 74400    Loss: 0.435055    MSE_Loss: 0.389365    Learning Rate: 0.000099    Test-PSNR: 15.852015495300293
+
+Fri Aug  1 04:56:51 2025
+Global Step: 74600    Loss: 0.463914    MSE_Loss: 0.528213    Learning Rate: 0.000099    Test-PSNR: 16.86017608642578
+
+Fri Aug  1 04:57:42 2025
+Global Step: 74800    Loss: 0.497167    MSE_Loss: 0.763415    Learning Rate: 0.000099    Test-PSNR: 16.624462127685547
+
+Fri Aug  1 04:58:32 2025
+Global Step: 75000    Loss: 0.397057    MSE_Loss: 0.324865    Learning Rate: 0.000099    Test-PSNR: 16.29100227355957
+
+Fri Aug  1 04:59:23 2025
+Global Step: 75200    Loss: 0.400117    MSE_Loss: 0.337499    Learning Rate: 0.000099    Test-PSNR: 15.994516372680664
+
+Fri Aug  1 05:00:14 2025
+Global Step: 75400    Loss: 0.458555    MSE_Loss: 0.533735    Learning Rate: 0.000099    Test-PSNR: 16.250879287719727
+
+Fri Aug  1 05:01:04 2025
+Global Step: 75600    Loss: 0.453360    MSE_Loss: 0.505688    Learning Rate: 0.000099    Test-PSNR: 16.305429458618164
+
+Fri Aug  1 05:01:55 2025
+Global Step: 75800    Loss: 0.404900    MSE_Loss: 0.335535    Learning Rate: 0.000099    Test-PSNR: 16.53493309020996
+
+Fri Aug  1 05:02:46 2025
+Global Step: 76000    Loss: 0.427169    MSE_Loss: 0.377263    Learning Rate: 0.000099    Test-PSNR: 16.261131286621094
+
+Fri Aug  1 05:03:37 2025
+Global Step: 76200    Loss: 0.417959    MSE_Loss: 0.350887    Learning Rate: 0.000099    Test-PSNR: 16.22606658935547
+
+Fri Aug  1 05:04:27 2025
+Global Step: 76400    Loss: 0.447117    MSE_Loss: 0.509223    Learning Rate: 0.000098    Test-PSNR: 15.488641738891602
+
+Fri Aug  1 05:05:18 2025
+Global Step: 76600    Loss: 0.489795    MSE_Loss: 0.672989    Learning Rate: 0.000098    Test-PSNR: 16.292335510253906
+
+Fri Aug  1 05:06:08 2025
+Global Step: 76800    Loss: 0.411492    MSE_Loss: 0.347145    Learning Rate: 0.000098    Test-PSNR: 16.1212158203125
+
+Fri Aug  1 05:06:59 2025
+Global Step: 77000    Loss: 0.448480    MSE_Loss: 0.455072    Learning Rate: 0.000098    Test-PSNR: 16.44055938720703
+
+Fri Aug  1 05:07:50 2025
+Global Step: 77200    Loss: 0.468688    MSE_Loss: 0.552281    Learning Rate: 0.000098    Test-PSNR: 16.439117431640625
+
+Fri Aug  1 05:08:42 2025
+Global Step: 77400    Loss: 0.434751    MSE_Loss: 0.425141    Learning Rate: 0.000098    Test-PSNR: 16.387985229492188
+
+Fri Aug  1 05:09:32 2025
+Global Step: 77600    Loss: 0.419219    MSE_Loss: 0.378432    Learning Rate: 0.000098    Test-PSNR: 16.871654510498047
+
+Fri Aug  1 05:10:23 2025
+Global Step: 77800    Loss: 0.408474    MSE_Loss: 0.330531    Learning Rate: 0.000098    Test-PSNR: 16.105674743652344
+
+Fri Aug  1 05:11:14 2025
+Global Step: 78000    Loss: 0.421933    MSE_Loss: 0.379380    Learning Rate: 0.000098    Test-PSNR: 17.409393310546875
+
+Fri Aug  1 05:12:05 2025
+Global Step: 78200    Loss: 0.455609    MSE_Loss: 0.571945    Learning Rate: 0.000097    Test-PSNR: 17.19915008544922
+
+Fri Aug  1 05:12:55 2025
+Global Step: 78400    Loss: 0.434446    MSE_Loss: 0.421359    Learning Rate: 0.000097    Test-PSNR: 15.962696075439453
+
+Fri Aug  1 05:13:46 2025
+Global Step: 78600    Loss: 0.449260    MSE_Loss: 0.467745    Learning Rate: 0.000097    Test-PSNR: 16.464990615844727
+
+Fri Aug  1 05:14:36 2025
+Global Step: 78800    Loss: 0.503709    MSE_Loss: 0.702305    Learning Rate: 0.000097    Test-PSNR: 16.56716537475586
+
+Fri Aug  1 05:15:27 2025
+Global Step: 79000    Loss: 0.423959    MSE_Loss: 0.416644    Learning Rate: 0.000097    Test-PSNR: 16.53655242919922
+
+Fri Aug  1 05:16:18 2025
+Global Step: 79200    Loss: 0.480403    MSE_Loss: 0.585557    Learning Rate: 0.000097    Test-PSNR: 16.832569122314453
+
+Fri Aug  1 05:17:09 2025
+Global Step: 79400    Loss: 0.524307    MSE_Loss: 0.807972    Learning Rate: 0.000097    Test-PSNR: 17.599451065063477
+
+Fri Aug  1 05:17:59 2025
+Global Step: 79600    Loss: 0.389093    MSE_Loss: 0.294785    Learning Rate: 0.000097    Test-PSNR: 15.848685264587402
+
+Fri Aug  1 05:18:50 2025
+Global Step: 79800    Loss: 0.417056    MSE_Loss: 0.398579    Learning Rate: 0.000096    Test-PSNR: 16.561817169189453
+
+Fri Aug  1 05:19:40 2025
+Global Step: 80000    Loss: 0.427029    MSE_Loss: 0.455466    Learning Rate: 0.000096    Test-PSNR: 16.592731475830078
+
+Fri Aug  1 05:20:31 2025
+Global Step: 80200    Loss: 0.418736    MSE_Loss: 0.402127    Learning Rate: 0.000096    Test-PSNR: 16.082828521728516
+
+Fri Aug  1 05:21:22 2025
+Global Step: 80400    Loss: 0.430162    MSE_Loss: 0.405233    Learning Rate: 0.000096    Test-PSNR: 17.460590362548828
+
+Fri Aug  1 05:22:13 2025
+Global Step: 80600    Loss: 0.430047    MSE_Loss: 0.388163    Learning Rate: 0.000096    Test-PSNR: 16.094989776611328
+
+Fri Aug  1 05:23:03 2025
+Global Step: 80800    Loss: 0.442174    MSE_Loss: 0.430860    Learning Rate: 0.000096    Test-PSNR: 16.104679107666016
+
+Fri Aug  1 05:23:54 2025
+Global Step: 81000    Loss: 0.458515    MSE_Loss: 0.482682    Learning Rate: 0.000095    Test-PSNR: 15.477230072021484
+
+Fri Aug  1 05:24:44 2025
+Global Step: 81200    Loss: 0.467437    MSE_Loss: 0.585522    Learning Rate: 0.000095    Test-PSNR: 16.30508041381836
+
+Fri Aug  1 05:25:35 2025
+Global Step: 81400    Loss: 0.436851    MSE_Loss: 0.445127    Learning Rate: 0.000095    Test-PSNR: 17.214214324951172
+
+Fri Aug  1 05:26:26 2025
+Global Step: 81600    Loss: 0.454317    MSE_Loss: 0.493810    Learning Rate: 0.000095    Test-PSNR: 16.478057861328125
+
+Fri Aug  1 05:27:16 2025
+Global Step: 81800    Loss: 0.428129    MSE_Loss: 0.404737    Learning Rate: 0.000095    Test-PSNR: 16.66000747680664
+
+Fri Aug  1 05:28:07 2025
+Global Step: 82000    Loss: 0.478979    MSE_Loss: 0.679815    Learning Rate: 0.000095    Test-PSNR: 17.37600326538086
+
+Fri Aug  1 05:28:58 2025
+Global Step: 82200    Loss: 0.496223    MSE_Loss: 0.854961    Learning Rate: 0.000094    Test-PSNR: 16.391170501708984
+
+Fri Aug  1 05:29:48 2025
+Global Step: 82400    Loss: 0.451588    MSE_Loss: 0.506528    Learning Rate: 0.000094    Test-PSNR: 16.96425437927246
+
+Fri Aug  1 05:30:39 2025
+Global Step: 82600    Loss: 0.394406    MSE_Loss: 0.341035    Learning Rate: 0.000094    Test-PSNR: 15.829595565795898
+
+Fri Aug  1 05:31:30 2025
+Global Step: 82800    Loss: 0.421036    MSE_Loss: 0.405609    Learning Rate: 0.000094    Test-PSNR: 15.568370819091797
+
+Fri Aug  1 05:32:20 2025
+Global Step: 83000    Loss: 0.447313    MSE_Loss: 0.519735    Learning Rate: 0.000094    Test-PSNR: 16.025798797607422
+
+Fri Aug  1 05:33:11 2025
+Global Step: 83200    Loss: 0.438118    MSE_Loss: 0.501839    Learning Rate: 0.000093    Test-PSNR: 15.781405448913574
+
+Fri Aug  1 05:34:02 2025
+Global Step: 83400    Loss: 0.421429    MSE_Loss: 0.393590    Learning Rate: 0.000093    Test-PSNR: 16.106149673461914
+
+Fri Aug  1 05:34:52 2025
+Global Step: 83600    Loss: 0.462031    MSE_Loss: 0.590258    Learning Rate: 0.000093    Test-PSNR: 16.797101974487305
+
+Fri Aug  1 05:35:43 2025
+Global Step: 83800    Loss: 0.406606    MSE_Loss: 0.376250    Learning Rate: 0.000093    Test-PSNR: 15.93612289428711
+
+Fri Aug  1 05:36:34 2025
+Global Step: 84000    Loss: 0.423635    MSE_Loss: 0.408183    Learning Rate: 0.000093    Test-PSNR: 16.156187057495117
+
+Fri Aug  1 05:37:25 2025
+Global Step: 84200    Loss: 0.436363    MSE_Loss: 0.493407    Learning Rate: 0.000093    Test-PSNR: 15.747695922851562
+
+Fri Aug  1 05:38:15 2025
+Global Step: 84400    Loss: 0.422582    MSE_Loss: 0.416021    Learning Rate: 0.000092    Test-PSNR: 15.703791618347168
+
+Fri Aug  1 05:39:06 2025
+Global Step: 84600    Loss: 0.395824    MSE_Loss: 0.338922    Learning Rate: 0.000092    Test-PSNR: 16.101825714111328
+
+Fri Aug  1 05:39:56 2025
+Global Step: 84800    Loss: 0.404551    MSE_Loss: 0.366727    Learning Rate: 0.000092    Test-PSNR: 16.171113967895508
+
+Fri Aug  1 05:40:47 2025
+Global Step: 85000    Loss: 0.385806    MSE_Loss: 0.313782    Learning Rate: 0.000092    Test-PSNR: 15.68459701538086
+
+Fri Aug  1 05:41:38 2025
+Global Step: 85200    Loss: 0.381699    MSE_Loss: 0.300295    Learning Rate: 0.000091    Test-PSNR: 16.22450065612793
+
+Fri Aug  1 05:42:29 2025
+Global Step: 85400    Loss: 0.392055    MSE_Loss: 0.334443    Learning Rate: 0.000091    Test-PSNR: 16.95897102355957
+
+Fri Aug  1 05:43:19 2025
+Global Step: 85600    Loss: 0.387629    MSE_Loss: 0.308034    Learning Rate: 0.000091    Test-PSNR: 15.692511558532715
+
+Fri Aug  1 05:44:10 2025
+Global Step: 85800    Loss: 0.410012    MSE_Loss: 0.358984    Learning Rate: 0.000091    Test-PSNR: 15.830931663513184
+
+Fri Aug  1 05:45:00 2025
+Global Step: 86000    Loss: 0.459661    MSE_Loss: 0.593736    Learning Rate: 0.000091    Test-PSNR: 16.5939884185791
+
+Fri Aug  1 05:45:51 2025
+Global Step: 86200    Loss: 0.475296    MSE_Loss: 0.734511    Learning Rate: 0.000090    Test-PSNR: 16.018451690673828
+
+Fri Aug  1 05:46:42 2025
+Global Step: 86400    Loss: 0.427288    MSE_Loss: 0.444994    Learning Rate: 0.000090    Test-PSNR: 15.531869888305664
+
+Fri Aug  1 05:47:33 2025
+Global Step: 86600    Loss: 0.409025    MSE_Loss: 0.358748    Learning Rate: 0.000090    Test-PSNR: 16.97747230529785
+
+Fri Aug  1 05:48:23 2025
+Global Step: 86800    Loss: 0.466896    MSE_Loss: 0.549889    Learning Rate: 0.000090    Test-PSNR: 16.10559844970703
+
+Fri Aug  1 05:49:14 2025
+Global Step: 87000    Loss: 0.425547    MSE_Loss: 0.425408    Learning Rate: 0.000089    Test-PSNR: 15.54633617401123
+
+Fri Aug  1 05:50:04 2025
+Global Step: 87200    Loss: 0.418187    MSE_Loss: 0.408550    Learning Rate: 0.000089    Test-PSNR: 16.274120330810547
+
+Fri Aug  1 05:50:55 2025
+Global Step: 87400    Loss: 0.436920    MSE_Loss: 0.470706    Learning Rate: 0.000089    Test-PSNR: 15.795116424560547
+
+Fri Aug  1 05:51:46 2025
+Global Step: 87600    Loss: 0.391082    MSE_Loss: 0.334098    Learning Rate: 0.000089    Test-PSNR: 15.700740814208984
+
+Fri Aug  1 05:52:37 2025
+Global Step: 87800    Loss: 0.396366    MSE_Loss: 0.327094    Learning Rate: 0.000088    Test-PSNR: 15.686485290527344
+
+Fri Aug  1 05:53:27 2025
+Global Step: 88000    Loss: 0.404444    MSE_Loss: 0.381695    Learning Rate: 0.000088    Test-PSNR: 15.914072036743164
+
+Fri Aug  1 05:54:18 2025
+Global Step: 88200    Loss: 0.392498    MSE_Loss: 0.342128    Learning Rate: 0.000088    Test-PSNR: 15.914463996887207
+
+Fri Aug  1 05:55:08 2025
+Global Step: 88400    Loss: 0.395614    MSE_Loss: 0.343295    Learning Rate: 0.000088    Test-PSNR: 15.809381484985352
+
+Fri Aug  1 05:55:59 2025
+Global Step: 88600    Loss: 0.412906    MSE_Loss: 0.388819    Learning Rate: 0.000087    Test-PSNR: 16.620037078857422
+
+Fri Aug  1 05:56:50 2025
+Global Step: 88800    Loss: 0.432161    MSE_Loss: 0.460020    Learning Rate: 0.000087    Test-PSNR: 16.087364196777344
+
+Fri Aug  1 05:57:41 2025
+Global Step: 89000    Loss: 0.397833    MSE_Loss: 0.369761    Learning Rate: 0.000087    Test-PSNR: 15.433340072631836
+
+Fri Aug  1 05:58:31 2025
+Global Step: 89200    Loss: 0.414839    MSE_Loss: 0.445402    Learning Rate: 0.000087    Test-PSNR: 15.74923324584961
+
+Fri Aug  1 05:59:22 2025
+Global Step: 89400    Loss: 0.421056    MSE_Loss: 0.439599    Learning Rate: 0.000086    Test-PSNR: 15.214094161987305
+
+Fri Aug  1 06:00:12 2025
+Global Step: 89600    Loss: 0.439532    MSE_Loss: 0.460405    Learning Rate: 0.000086    Test-PSNR: 16.054950714111328
+
+Fri Aug  1 06:01:03 2025
+Global Step: 89800    Loss: 0.377004    MSE_Loss: 0.285158    Learning Rate: 0.000086    Test-PSNR: 15.763128280639648
+
+Fri Aug  1 06:01:54 2025
+Global Step: 90000    Loss: 0.358434    MSE_Loss: 0.248543    Learning Rate: 0.000086    Test-PSNR: 15.882633209228516
+
+Fri Aug  1 06:02:45 2025
+Global Step: 90200    Loss: 0.393068    MSE_Loss: 0.350923    Learning Rate: 0.000085    Test-PSNR: 15.741935729980469
+
+Fri Aug  1 06:03:35 2025
+Global Step: 90400    Loss: 0.389532    MSE_Loss: 0.329354    Learning Rate: 0.000085    Test-PSNR: 16.28425407409668
+
+Fri Aug  1 06:04:26 2025
+Global Step: 90600    Loss: 0.422048    MSE_Loss: 0.439135    Learning Rate: 0.000085    Test-PSNR: 15.547811508178711
+
+Fri Aug  1 06:05:16 2025
+Global Step: 90800    Loss: 0.388130    MSE_Loss: 0.314553    Learning Rate: 0.000084    Test-PSNR: 16.27387809753418
+
+Fri Aug  1 06:06:07 2025
+Global Step: 91000    Loss: 0.417144    MSE_Loss: 0.425319    Learning Rate: 0.000084    Test-PSNR: 16.914794921875
+
+Fri Aug  1 06:06:58 2025
+Global Step: 91200    Loss: 0.380024    MSE_Loss: 0.340598    Learning Rate: 0.000084    Test-PSNR: 16.1675968170166
+
+Fri Aug  1 06:07:48 2025
+Global Step: 91400    Loss: 0.374378    MSE_Loss: 0.304882    Learning Rate: 0.000084    Test-PSNR: 16.571313858032227
+
+Fri Aug  1 06:08:39 2025
+Global Step: 91600    Loss: 0.432057    MSE_Loss: 0.468741    Learning Rate: 0.000083    Test-PSNR: 16.036169052124023
+
+Fri Aug  1 06:09:30 2025
+Global Step: 91800    Loss: 0.372343    MSE_Loss: 0.297671    Learning Rate: 0.000083    Test-PSNR: 16.455320358276367
+
+Fri Aug  1 06:10:20 2025
+Global Step: 92000    Loss: 0.418609    MSE_Loss: 0.425391    Learning Rate: 0.000083    Test-PSNR: 16.16208267211914
+
+Fri Aug  1 06:11:11 2025
+Global Step: 92200    Loss: 0.364192    MSE_Loss: 0.286812    Learning Rate: 0.000082    Test-PSNR: 16.066701889038086
+
+Fri Aug  1 06:12:01 2025
+Global Step: 92400    Loss: 0.345322    MSE_Loss: 0.231557    Learning Rate: 0.000082    Test-PSNR: 15.79068374633789
+
+Fri Aug  1 06:12:52 2025
+Global Step: 92600    Loss: 0.372520    MSE_Loss: 0.300864    Learning Rate: 0.000082    Test-PSNR: 15.630170822143555
+
+Fri Aug  1 06:13:43 2025
+Global Step: 92800    Loss: 0.379531    MSE_Loss: 0.310711    Learning Rate: 0.000081    Test-PSNR: 15.666260719299316
+
+Fri Aug  1 06:14:34 2025
+Global Step: 93000    Loss: 0.372380    MSE_Loss: 0.318101    Learning Rate: 0.000081    Test-PSNR: 15.90656566619873
+
+Fri Aug  1 06:15:24 2025
+Global Step: 93200    Loss: 0.405767    MSE_Loss: 0.413742    Learning Rate: 0.000081    Test-PSNR: 16.27281951904297
+
+Fri Aug  1 06:16:15 2025
+Global Step: 93400    Loss: 0.363993    MSE_Loss: 0.262644    Learning Rate: 0.000081    Test-PSNR: 15.887484550476074
+
+Fri Aug  1 06:17:05 2025
+Global Step: 93600    Loss: 0.383766    MSE_Loss: 0.362504    Learning Rate: 0.000080    Test-PSNR: 16.38089370727539
+
+Fri Aug  1 06:17:56 2025
+Global Step: 93800    Loss: 0.412014    MSE_Loss: 0.481873    Learning Rate: 0.000080    Test-PSNR: 15.683656692504883
+
+Fri Aug  1 06:18:46 2025
+Global Step: 94000    Loss: 0.344958    MSE_Loss: 0.230149    Learning Rate: 0.000080    Test-PSNR: 15.654816627502441
+
+Fri Aug  1 06:19:37 2025
+Global Step: 94200    Loss: 0.361252    MSE_Loss: 0.291464    Learning Rate: 0.000079    Test-PSNR: 15.51473331451416
+
+Fri Aug  1 06:20:28 2025
+Global Step: 94400    Loss: 0.345162    MSE_Loss: 0.249562    Learning Rate: 0.000079    Test-PSNR: 15.6102294921875
+
+Fri Aug  1 06:21:19 2025
+Global Step: 94600    Loss: 0.361122    MSE_Loss: 0.269937    Learning Rate: 0.000079    Test-PSNR: 16.002031326293945
+
+Fri Aug  1 06:22:09 2025
+Global Step: 94800    Loss: 0.389462    MSE_Loss: 0.340247    Learning Rate: 0.000078    Test-PSNR: 15.803801536560059
+
+Fri Aug  1 06:23:00 2025
+Global Step: 95000    Loss: 0.364656    MSE_Loss: 0.267977    Learning Rate: 0.000078    Test-PSNR: 15.606098175048828
+
+Fri Aug  1 06:23:50 2025
+Global Step: 95200    Loss: 0.394247    MSE_Loss: 0.363833    Learning Rate: 0.000078    Test-PSNR: 16.454822540283203
+
+Fri Aug  1 06:24:41 2025
+Global Step: 95400    Loss: 0.407515    MSE_Loss: 0.397287    Learning Rate: 0.000077    Test-PSNR: 15.853673934936523
+
+Fri Aug  1 06:25:32 2025
+Global Step: 95600    Loss: 0.369144    MSE_Loss: 0.275167    Learning Rate: 0.000077    Test-PSNR: 16.5064754486084
+
+Fri Aug  1 06:26:23 2025
+Global Step: 95800    Loss: 0.410313    MSE_Loss: 0.393076    Learning Rate: 0.000077    Test-PSNR: 16.30218505859375
+
+Fri Aug  1 06:27:13 2025
+Global Step: 96000    Loss: 0.361374    MSE_Loss: 0.263175    Learning Rate: 0.000076    Test-PSNR: 16.06533432006836
+
+Fri Aug  1 06:28:04 2025
+Global Step: 96200    Loss: 0.370458    MSE_Loss: 0.280262    Learning Rate: 0.000076    Test-PSNR: 15.844696044921875
+
+Fri Aug  1 06:28:54 2025
+Global Step: 96400    Loss: 0.368013    MSE_Loss: 0.291111    Learning Rate: 0.000076    Test-PSNR: 15.685155868530273
+
+Fri Aug  1 06:29:47 2025
+Global Step: 96600    Loss: 0.366761    MSE_Loss: 0.282467    Learning Rate: 0.000075    Test-PSNR: 15.901407241821289
+
+Fri Aug  1 06:30:37 2025
+Global Step: 96800    Loss: 0.421508    MSE_Loss: 0.461320    Learning Rate: 0.000075    Test-PSNR: 15.759431838989258
+
+Fri Aug  1 06:31:28 2025
+Global Step: 97000    Loss: 0.374884    MSE_Loss: 0.287715    Learning Rate: 0.000075    Test-PSNR: 15.507747650146484
+
+Fri Aug  1 06:32:19 2025
+Global Step: 97200    Loss: 0.371699    MSE_Loss: 0.337612    Learning Rate: 0.000074    Test-PSNR: 16.116382598876953
+
+Fri Aug  1 06:33:09 2025
+Global Step: 97400    Loss: 0.413258    MSE_Loss: 0.423624    Learning Rate: 0.000074    Test-PSNR: 15.822072982788086
+
+Fri Aug  1 06:34:00 2025
+Global Step: 97600    Loss: 0.361361    MSE_Loss: 0.267912    Learning Rate: 0.000074    Test-PSNR: 15.865846633911133
+
+Fri Aug  1 06:34:51 2025
+Global Step: 97800    Loss: 0.396424    MSE_Loss: 0.374255    Learning Rate: 0.000073    Test-PSNR: 16.174175262451172
+
+Fri Aug  1 06:35:41 2025
+Global Step: 98000    Loss: 0.366426    MSE_Loss: 0.306936    Learning Rate: 0.000073    Test-PSNR: 15.401752471923828
+
+Fri Aug  1 06:36:32 2025
+Global Step: 98200    Loss: 0.373421    MSE_Loss: 0.310556    Learning Rate: 0.000073    Test-PSNR: 16.25924301147461
+
+Fri Aug  1 06:37:22 2025
+Global Step: 98400    Loss: 0.358171    MSE_Loss: 0.278151    Learning Rate: 0.000072    Test-PSNR: 15.407003402709961
+
+Fri Aug  1 06:38:13 2025
+Global Step: 98600    Loss: 0.370276    MSE_Loss: 0.295823    Learning Rate: 0.000072    Test-PSNR: 16.170650482177734
+
+Fri Aug  1 06:39:04 2025
+Global Step: 98800    Loss: 0.415687    MSE_Loss: 0.474583    Learning Rate: 0.000072    Test-PSNR: 15.978534698486328
+
+Fri Aug  1 06:39:55 2025
+Global Step: 99000    Loss: 0.377399    MSE_Loss: 0.312165    Learning Rate: 0.000071    Test-PSNR: 15.858543395996094
+
+Fri Aug  1 06:40:45 2025
+Global Step: 99200    Loss: 0.383936    MSE_Loss: 0.350260    Learning Rate: 0.000071    Test-PSNR: 16.024478912353516
+
+Fri Aug  1 06:41:36 2025
+Global Step: 99400    Loss: 0.357395    MSE_Loss: 0.269237    Learning Rate: 0.000071    Test-PSNR: 15.170883178710938
+
+Fri Aug  1 06:42:27 2025
+Global Step: 99600    Loss: 0.345573    MSE_Loss: 0.241995    Learning Rate: 0.000070    Test-PSNR: 15.7741117477417
+
+Fri Aug  1 06:43:17 2025
+Global Step: 99800    Loss: 0.338065    MSE_Loss: 0.238579    Learning Rate: 0.000070    Test-PSNR: 15.397948265075684
+
+Fri Aug  1 06:44:08 2025
+Global Step: 100000    Loss: 0.344022    MSE_Loss: 0.234225    Learning Rate: 0.000069    Test-PSNR: 15.308246612548828
+
+Fri Aug  1 06:44:59 2025
+Global Step: 100200    Loss: 0.346916    MSE_Loss: 0.229779    Learning Rate: 0.000069    Test-PSNR: 15.49136734008789
+
+Fri Aug  1 06:45:49 2025
+Global Step: 100400    Loss: 0.357702    MSE_Loss: 0.271253    Learning Rate: 0.000069    Test-PSNR: 15.410995483398438
+
+Fri Aug  1 06:46:40 2025
+Global Step: 100600    Loss: 0.375865    MSE_Loss: 0.316759    Learning Rate: 0.000068    Test-PSNR: 15.795666694641113
+
+Fri Aug  1 06:47:30 2025
+Global Step: 100800    Loss: 0.402331    MSE_Loss: 0.383713    Learning Rate: 0.000068    Test-PSNR: 16.00144386291504
+
+Fri Aug  1 06:48:21 2025
+Global Step: 101000    Loss: 0.369624    MSE_Loss: 0.302607    Learning Rate: 0.000068    Test-PSNR: 15.44106674194336
+
+Fri Aug  1 06:49:12 2025
+Global Step: 101200    Loss: 0.359699    MSE_Loss: 0.283763    Learning Rate: 0.000067    Test-PSNR: 15.884919166564941
+
+Fri Aug  1 06:50:03 2025
+Global Step: 101400    Loss: 0.401035    MSE_Loss: 0.397133    Learning Rate: 0.000067    Test-PSNR: 16.47260093688965
+
+Fri Aug  1 06:50:53 2025
+Global Step: 101600    Loss: 0.333862    MSE_Loss: 0.216735    Learning Rate: 0.000067    Test-PSNR: 15.986739158630371
+
+Fri Aug  1 06:51:44 2025
+Global Step: 101800    Loss: 0.353668    MSE_Loss: 0.244540    Learning Rate: 0.000066    Test-PSNR: 16.111169815063477
+
+Fri Aug  1 06:52:34 2025
+Global Step: 102000    Loss: 0.335058    MSE_Loss: 0.217838    Learning Rate: 0.000066    Test-PSNR: 16.91908836364746
+
+Fri Aug  1 06:53:25 2025
+Global Step: 102200    Loss: 0.332298    MSE_Loss: 0.228764    Learning Rate: 0.000065    Test-PSNR: 16.669673919677734
+
+Fri Aug  1 06:54:16 2025
+Global Step: 102400    Loss: 0.329704    MSE_Loss: 0.214280    Learning Rate: 0.000065    Test-PSNR: 15.903815269470215
+
+Fri Aug  1 06:55:07 2025
+Global Step: 102600    Loss: 0.336283    MSE_Loss: 0.241934    Learning Rate: 0.000065    Test-PSNR: 16.430593490600586
+
+Fri Aug  1 06:55:57 2025
+Global Step: 102800    Loss: 0.328700    MSE_Loss: 0.214081    Learning Rate: 0.000064    Test-PSNR: 15.424230575561523
+
+Fri Aug  1 06:56:48 2025
+Global Step: 103000    Loss: 0.335917    MSE_Loss: 0.232727    Learning Rate: 0.000064    Test-PSNR: 16.064697265625
+
+Fri Aug  1 06:57:38 2025
+Global Step: 103200    Loss: 0.367839    MSE_Loss: 0.333648    Learning Rate: 0.000064    Test-PSNR: 15.961633682250977
+
+Fri Aug  1 06:58:29 2025
+Global Step: 103400    Loss: 0.323992    MSE_Loss: 0.204646    Learning Rate: 0.000063    Test-PSNR: 15.286881446838379
+
+Fri Aug  1 06:59:20 2025
+Global Step: 103600    Loss: 0.322894    MSE_Loss: 0.191913    Learning Rate: 0.000063    Test-PSNR: 15.596185684204102
+
+Fri Aug  1 07:00:11 2025
+Global Step: 103800    Loss: 0.349548    MSE_Loss: 0.256180    Learning Rate: 0.000062    Test-PSNR: 15.95356559753418
+
+Fri Aug  1 07:01:01 2025
+Global Step: 104000    Loss: 0.312268    MSE_Loss: 0.177430    Learning Rate: 0.000062    Test-PSNR: 15.74489688873291
+
+Fri Aug  1 07:01:52 2025
+Global Step: 104200    Loss: 0.319221    MSE_Loss: 0.195869    Learning Rate: 0.000062    Test-PSNR: 16.261333465576172
+
+Fri Aug  1 07:02:42 2025
+Global Step: 104400    Loss: 0.340733    MSE_Loss: 0.236615    Learning Rate: 0.000061    Test-PSNR: 15.821310043334961
+
+Fri Aug  1 07:03:33 2025
+Global Step: 104600    Loss: 0.340466    MSE_Loss: 0.217380    Learning Rate: 0.000061    Test-PSNR: 16.125072479248047
+
+Fri Aug  1 07:04:24 2025
+Global Step: 104800    Loss: 0.341043    MSE_Loss: 0.233272    Learning Rate: 0.000061    Test-PSNR: 17.14468765258789
+
+Fri Aug  1 07:05:15 2025
+Global Step: 105000    Loss: 0.356780    MSE_Loss: 0.274607    Learning Rate: 0.000060    Test-PSNR: 15.725502967834473
+
+Fri Aug  1 07:06:05 2025
+Global Step: 105200    Loss: 0.335592    MSE_Loss: 0.236387    Learning Rate: 0.000060    Test-PSNR: 15.672375679016113
+
+Fri Aug  1 07:06:56 2025
+Global Step: 105400    Loss: 0.339030    MSE_Loss: 0.247013    Learning Rate: 0.000059    Test-PSNR: 15.714853286743164
+
+Fri Aug  1 07:07:46 2025
+Global Step: 105600    Loss: 0.348824    MSE_Loss: 0.255422    Learning Rate: 0.000059    Test-PSNR: 15.467535018920898
+
+Fri Aug  1 07:08:37 2025
+Global Step: 105800    Loss: 0.347534    MSE_Loss: 0.231434    Learning Rate: 0.000059    Test-PSNR: 15.772746086120605
+
+Fri Aug  1 07:09:28 2025
+Global Step: 106000    Loss: 0.377621    MSE_Loss: 0.317122    Learning Rate: 0.000058    Test-PSNR: 15.74152946472168
+
+Fri Aug  1 07:10:19 2025
+Global Step: 106200    Loss: 0.330825    MSE_Loss: 0.217591    Learning Rate: 0.000058    Test-PSNR: 15.46445083618164
+
+Fri Aug  1 07:11:09 2025
+Global Step: 106400    Loss: 0.322517    MSE_Loss: 0.198252    Learning Rate: 0.000057    Test-PSNR: 16.056259155273438
+
+Fri Aug  1 07:12:00 2025
+Global Step: 106600    Loss: 0.362835    MSE_Loss: 0.286317    Learning Rate: 0.000057    Test-PSNR: 15.732662200927734
+
+Fri Aug  1 07:12:50 2025
+Global Step: 106800    Loss: 0.322806    MSE_Loss: 0.188301    Learning Rate: 0.000057    Test-PSNR: 15.763534545898438
+
+Fri Aug  1 07:13:41 2025
+Global Step: 107000    Loss: 0.323085    MSE_Loss: 0.199762    Learning Rate: 0.000056    Test-PSNR: 16.121429443359375
+
+Fri Aug  1 07:14:32 2025
+Global Step: 107200    Loss: 0.366514    MSE_Loss: 0.294578    Learning Rate: 0.000056    Test-PSNR: 16.591922760009766
+
+Fri Aug  1 07:15:22 2025
+Global Step: 107400    Loss: 0.324696    MSE_Loss: 0.206585    Learning Rate: 0.000056    Test-PSNR: 15.371253967285156
+
+Fri Aug  1 07:16:13 2025
+Global Step: 107600    Loss: 0.313188    MSE_Loss: 0.186869    Learning Rate: 0.000055    Test-PSNR: 16.112842559814453
+
+Fri Aug  1 07:17:04 2025
+Global Step: 107800    Loss: 0.332388    MSE_Loss: 0.252690    Learning Rate: 0.000055    Test-PSNR: 15.994284629821777
+
+Fri Aug  1 07:17:54 2025
+Global Step: 108000    Loss: 0.303287    MSE_Loss: 0.162504    Learning Rate: 0.000054    Test-PSNR: 15.522842407226562
+
+Fri Aug  1 07:18:45 2025
+Global Step: 108200    Loss: 0.320443    MSE_Loss: 0.183602    Learning Rate: 0.000054    Test-PSNR: 15.459325790405273
+
+Fri Aug  1 07:19:35 2025
+Global Step: 108400    Loss: 0.326593    MSE_Loss: 0.215135    Learning Rate: 0.000054    Test-PSNR: 15.625447273254395
+
+Fri Aug  1 07:20:26 2025
+Global Step: 108600    Loss: 0.304798    MSE_Loss: 0.178360    Learning Rate: 0.000053    Test-PSNR: 15.541973114013672
+
+Fri Aug  1 07:21:17 2025
+Global Step: 108800    Loss: 0.305862    MSE_Loss: 0.176788    Learning Rate: 0.000053    Test-PSNR: 15.648825645446777
+
+Fri Aug  1 07:22:07 2025
+Global Step: 109000    Loss: 0.324735    MSE_Loss: 0.214944    Learning Rate: 0.000052    Test-PSNR: 15.319005012512207
+
+Fri Aug  1 07:22:58 2025
+Global Step: 109200    Loss: 0.318194    MSE_Loss: 0.196165    Learning Rate: 0.000052    Test-PSNR: 15.736259460449219
+
+Fri Aug  1 07:23:49 2025
+Global Step: 109400    Loss: 0.331747    MSE_Loss: 0.231721    Learning Rate: 0.000052    Test-PSNR: 15.258502960205078
+
+Fri Aug  1 07:24:39 2025
+Global Step: 109600    Loss: 0.319544    MSE_Loss: 0.202185    Learning Rate: 0.000051    Test-PSNR: 15.673916816711426
+
+Fri Aug  1 07:25:30 2025
+Global Step: 109800    Loss: 0.310175    MSE_Loss: 0.168050    Learning Rate: 0.000051    Test-PSNR: 15.632940292358398
+
+Fri Aug  1 07:26:21 2025
+Global Step: 110000    Loss: 0.318916    MSE_Loss: 0.191596    Learning Rate: 0.000051    Test-PSNR: 15.796038627624512
+
+Fri Aug  1 07:27:11 2025
+Global Step: 110200    Loss: 0.331645    MSE_Loss: 0.214742    Learning Rate: 0.000050    Test-PSNR: 15.665968894958496
+
+Fri Aug  1 07:28:02 2025
+Global Step: 110400    Loss: 0.300344    MSE_Loss: 0.161532    Learning Rate: 0.000050    Test-PSNR: 15.670665740966797
+
+Fri Aug  1 07:28:53 2025
+Global Step: 110600    Loss: 0.302619    MSE_Loss: 0.163658    Learning Rate: 0.000049    Test-PSNR: 15.813472747802734
+
+Fri Aug  1 07:29:43 2025
+Global Step: 110800    Loss: 0.338653    MSE_Loss: 0.221292    Learning Rate: 0.000049    Test-PSNR: 16.03502082824707
+
+Fri Aug  1 07:30:34 2025
+Global Step: 111000    Loss: 0.303639    MSE_Loss: 0.160182    Learning Rate: 0.000049    Test-PSNR: 15.538783073425293
+
+Fri Aug  1 07:31:25 2025
+Global Step: 111200    Loss: 0.306146    MSE_Loss: 0.170566    Learning Rate: 0.000048    Test-PSNR: 15.545275688171387
+
+Fri Aug  1 07:32:16 2025
+Global Step: 111400    Loss: 0.333933    MSE_Loss: 0.219669    Learning Rate: 0.000048    Test-PSNR: 16.142982482910156
+
+Fri Aug  1 07:33:06 2025
+Global Step: 111600    Loss: 0.295455    MSE_Loss: 0.164765    Learning Rate: 0.000047    Test-PSNR: 15.45691204071045
+
+Fri Aug  1 07:33:57 2025
+Global Step: 111800    Loss: 0.294249    MSE_Loss: 0.155622    Learning Rate: 0.000047    Test-PSNR: 15.568777084350586
+
+Fri Aug  1 07:34:47 2025
+Global Step: 112000    Loss: 0.287362    MSE_Loss: 0.143383    Learning Rate: 0.000047    Test-PSNR: 15.930152893066406
+
+Fri Aug  1 07:35:38 2025
+Global Step: 112200    Loss: 0.298014    MSE_Loss: 0.155845    Learning Rate: 0.000046    Test-PSNR: 15.615700721740723
+
+Fri Aug  1 07:36:29 2025
+Global Step: 112400    Loss: 0.300799    MSE_Loss: 0.164808    Learning Rate: 0.000046    Test-PSNR: 15.280535697937012
+
+Fri Aug  1 07:37:20 2025
+Global Step: 112600    Loss: 0.301983    MSE_Loss: 0.169564    Learning Rate: 0.000045    Test-PSNR: 15.843618392944336
+
+Fri Aug  1 07:38:10 2025
+Global Step: 112800    Loss: 0.316619    MSE_Loss: 0.195536    Learning Rate: 0.000045    Test-PSNR: 15.941873550415039
+
+Fri Aug  1 07:39:01 2025
+Global Step: 113000    Loss: 0.307851    MSE_Loss: 0.172521    Learning Rate: 0.000045    Test-PSNR: 15.535140991210938
+
+Fri Aug  1 07:39:51 2025
+Global Step: 113200    Loss: 0.292501    MSE_Loss: 0.148227    Learning Rate: 0.000044    Test-PSNR: 16.149803161621094
+
+Fri Aug  1 07:40:42 2025
+Global Step: 113400    Loss: 0.304407    MSE_Loss: 0.171784    Learning Rate: 0.000044    Test-PSNR: 16.198318481445312
+
+Fri Aug  1 07:41:33 2025
+Global Step: 113600    Loss: 0.288883    MSE_Loss: 0.154073    Learning Rate: 0.000044    Test-PSNR: 15.573455810546875
+
+Fri Aug  1 07:42:23 2025
+Global Step: 113800    Loss: 0.284516    MSE_Loss: 0.140392    Learning Rate: 0.000043    Test-PSNR: 15.831765174865723
+
+Fri Aug  1 07:43:14 2025
+Global Step: 114000    Loss: 0.278841    MSE_Loss: 0.130261    Learning Rate: 0.000043    Test-PSNR: 15.95985221862793
+
+Fri Aug  1 07:44:05 2025
+Global Step: 114200    Loss: 0.285268    MSE_Loss: 0.140231    Learning Rate: 0.000042    Test-PSNR: 16.622711181640625
+
+Fri Aug  1 07:44:55 2025
+Global Step: 114400    Loss: 0.296771    MSE_Loss: 0.166781    Learning Rate: 0.000042    Test-PSNR: 15.707542419433594
+
+Fri Aug  1 07:45:46 2025
+Global Step: 114600    Loss: 0.287475    MSE_Loss: 0.145547    Learning Rate: 0.000042    Test-PSNR: 15.586426734924316
+
+Fri Aug  1 07:46:36 2025
+Global Step: 114800    Loss: 0.279724    MSE_Loss: 0.136155    Learning Rate: 0.000041    Test-PSNR: 16.22396469116211
+
+Fri Aug  1 07:47:27 2025
+Global Step: 115000    Loss: 0.293984    MSE_Loss: 0.157437    Learning Rate: 0.000041    Test-PSNR: 16.018726348876953
+
+Fri Aug  1 07:48:18 2025
+Global Step: 115200    Loss: 0.279594    MSE_Loss: 0.135034    Learning Rate: 0.000040    Test-PSNR: 15.688230514526367
+
+Fri Aug  1 07:49:09 2025
+Global Step: 115400    Loss: 0.284944    MSE_Loss: 0.146430    Learning Rate: 0.000040    Test-PSNR: 15.289955139160156
+
+Fri Aug  1 07:49:59 2025
+Global Step: 115600    Loss: 0.265041    MSE_Loss: 0.115749    Learning Rate: 0.000040    Test-PSNR: 15.807008743286133
+
+Fri Aug  1 07:50:50 2025
+Global Step: 115800    Loss: 0.264646    MSE_Loss: 0.109881    Learning Rate: 0.000039    Test-PSNR: 15.919368743896484
+
+Fri Aug  1 07:51:40 2025
+Global Step: 116000    Loss: 0.268927    MSE_Loss: 0.118335    Learning Rate: 0.000039    Test-PSNR: 15.733257293701172
+
+Fri Aug  1 07:52:31 2025
+Global Step: 116200    Loss: 0.275473    MSE_Loss: 0.132498    Learning Rate: 0.000039    Test-PSNR: 15.582159042358398
+
+Fri Aug  1 07:53:22 2025
+Global Step: 116400    Loss: 0.273171    MSE_Loss: 0.124280    Learning Rate: 0.000038    Test-PSNR: 15.484798431396484
+
+Fri Aug  1 07:54:12 2025
+Global Step: 116600    Loss: 0.261558    MSE_Loss: 0.108620    Learning Rate: 0.000038    Test-PSNR: 15.709494590759277
+
+Fri Aug  1 07:55:03 2025
+Global Step: 116800    Loss: 0.273840    MSE_Loss: 0.122675    Learning Rate: 0.000037    Test-PSNR: 15.728683471679688
+
+Fri Aug  1 07:55:54 2025
+Global Step: 117000    Loss: 0.266827    MSE_Loss: 0.112431    Learning Rate: 0.000037    Test-PSNR: 15.496566772460938
+
+Fri Aug  1 07:56:44 2025
+Global Step: 117200    Loss: 0.263100    MSE_Loss: 0.104130    Learning Rate: 0.000037    Test-PSNR: 15.559196472167969
+
+Fri Aug  1 07:57:35 2025
+Global Step: 117400    Loss: 0.267222    MSE_Loss: 0.114267    Learning Rate: 0.000036    Test-PSNR: 15.838872909545898
+
+Fri Aug  1 07:58:25 2025
+Global Step: 117600    Loss: 0.283105    MSE_Loss: 0.140541    Learning Rate: 0.000036    Test-PSNR: 16.009418487548828
+
+Fri Aug  1 07:59:16 2025
+Global Step: 117800    Loss: 0.290479    MSE_Loss: 0.144840    Learning Rate: 0.000036    Test-PSNR: 15.645849227905273
+
+Fri Aug  1 08:00:07 2025
+Global Step: 118000    Loss: 0.264906    MSE_Loss: 0.111223    Learning Rate: 0.000035    Test-PSNR: 15.379739761352539
+
+Fri Aug  1 08:00:58 2025
+Global Step: 118200    Loss: 0.268816    MSE_Loss: 0.111017    Learning Rate: 0.000035    Test-PSNR: 15.514189720153809
+
+Fri Aug  1 08:01:48 2025
+Global Step: 118400    Loss: 0.260583    MSE_Loss: 0.102179    Learning Rate: 0.000034    Test-PSNR: 15.6731538772583
+
+Fri Aug  1 08:02:39 2025
+Global Step: 118600    Loss: 0.274071    MSE_Loss: 0.121329    Learning Rate: 0.000034    Test-PSNR: 15.8634614944458
+
+Fri Aug  1 08:03:30 2025
+Global Step: 118800    Loss: 0.279130    MSE_Loss: 0.132182    Learning Rate: 0.000034    Test-PSNR: 15.595184326171875
+
+Fri Aug  1 08:04:20 2025
+Global Step: 119000    Loss: 0.270107    MSE_Loss: 0.123984    Learning Rate: 0.000033    Test-PSNR: 15.40632438659668
+
+Fri Aug  1 08:05:11 2025
+Global Step: 119200    Loss: 0.284183    MSE_Loss: 0.139666    Learning Rate: 0.000033    Test-PSNR: 15.535411834716797
+
+Fri Aug  1 08:06:02 2025
+Global Step: 119400    Loss: 0.264069    MSE_Loss: 0.111324    Learning Rate: 0.000033    Test-PSNR: 15.604842185974121
+
+Fri Aug  1 08:06:52 2025
+Global Step: 119600    Loss: 0.299749    MSE_Loss: 0.160635    Learning Rate: 0.000032    Test-PSNR: 15.85367202758789
+
+Fri Aug  1 08:07:43 2025
+Global Step: 119800    Loss: 0.281380    MSE_Loss: 0.138544    Learning Rate: 0.000032    Test-PSNR: 16.057588577270508
+
+Fri Aug  1 08:08:33 2025
+Global Step: 120000    Loss: 0.260273    MSE_Loss: 0.104524    Learning Rate: 0.000032    Test-PSNR: 15.431270599365234
+
+Fri Aug  1 08:09:27 2025
+Global Step: 120200    Loss: 0.272177    MSE_Loss: 0.116949    Learning Rate: 0.000031    Test-PSNR: 15.479124069213867
+
+Fri Aug  1 08:10:17 2025
+Global Step: 120400    Loss: 0.272799    MSE_Loss: 0.119224    Learning Rate: 0.000031    Test-PSNR: 15.667091369628906
+
+Fri Aug  1 08:11:08 2025
+Global Step: 120600    Loss: 0.265534    MSE_Loss: 0.116067    Learning Rate: 0.000030    Test-PSNR: 16.03231430053711
+
+Fri Aug  1 08:11:58 2025
+Global Step: 120800    Loss: 0.309309    MSE_Loss: 0.189121    Learning Rate: 0.000030    Test-PSNR: 16.259437561035156
+
+Fri Aug  1 08:12:49 2025
+Global Step: 121000    Loss: 0.268307    MSE_Loss: 0.123321    Learning Rate: 0.000030    Test-PSNR: 16.000816345214844
+
+Fri Aug  1 08:13:40 2025
+Global Step: 121200    Loss: 0.260001    MSE_Loss: 0.105202    Learning Rate: 0.000029    Test-PSNR: 15.642126083374023
+
+Fri Aug  1 08:14:31 2025
+Global Step: 121400    Loss: 0.259349    MSE_Loss: 0.103225    Learning Rate: 0.000029    Test-PSNR: 15.76895523071289
+
+Fri Aug  1 08:15:21 2025
+Global Step: 121600    Loss: 0.251783    MSE_Loss: 0.095854    Learning Rate: 0.000029    Test-PSNR: 15.694857597351074
+
+Fri Aug  1 08:16:12 2025
+Global Step: 121800    Loss: 0.249640    MSE_Loss: 0.094153    Learning Rate: 0.000028    Test-PSNR: 15.801918029785156
+
+Fri Aug  1 08:17:02 2025
+Global Step: 122000    Loss: 0.260107    MSE_Loss: 0.106557    Learning Rate: 0.000028    Test-PSNR: 15.817946434020996
+
+Fri Aug  1 08:17:53 2025
+Global Step: 122200    Loss: 0.259028    MSE_Loss: 0.108061    Learning Rate: 0.000028    Test-PSNR: 15.774459838867188
+
+Fri Aug  1 08:18:44 2025
+Global Step: 122400    Loss: 0.247723    MSE_Loss: 0.093846    Learning Rate: 0.000027    Test-PSNR: 15.373907089233398
+
+Fri Aug  1 08:19:35 2025
+Global Step: 122600    Loss: 0.258877    MSE_Loss: 0.103777    Learning Rate: 0.000027    Test-PSNR: 15.308960914611816
+
+Fri Aug  1 08:20:25 2025
+Global Step: 122800    Loss: 0.268204    MSE_Loss: 0.116167    Learning Rate: 0.000027    Test-PSNR: 15.554337501525879
+
+Fri Aug  1 08:21:16 2025
+Global Step: 123000    Loss: 0.246168    MSE_Loss: 0.093544    Learning Rate: 0.000026    Test-PSNR: 15.729976654052734
+
+Fri Aug  1 08:22:06 2025
+Global Step: 123200    Loss: 0.260926    MSE_Loss: 0.114127    Learning Rate: 0.000026    Test-PSNR: 15.922317504882812
+
+Fri Aug  1 08:22:57 2025
+Global Step: 123400    Loss: 0.261453    MSE_Loss: 0.124239    Learning Rate: 0.000026    Test-PSNR: 15.826432228088379
+
+Fri Aug  1 08:23:48 2025
+Global Step: 123600    Loss: 0.245434    MSE_Loss: 0.091327    Learning Rate: 0.000025    Test-PSNR: 15.549245834350586
+
+Fri Aug  1 08:24:38 2025
+Global Step: 123800    Loss: 0.242555    MSE_Loss: 0.087253    Learning Rate: 0.000025    Test-PSNR: 15.444976806640625
+
+Fri Aug  1 08:25:29 2025
+Global Step: 124000    Loss: 0.242091    MSE_Loss: 0.086280    Learning Rate: 0.000025    Test-PSNR: 15.505160331726074
+
+Fri Aug  1 08:26:20 2025
+Global Step: 124200    Loss: 0.238766    MSE_Loss: 0.083056    Learning Rate: 0.000024    Test-PSNR: 15.551025390625
+
+Fri Aug  1 08:27:11 2025
+Global Step: 124400    Loss: 0.246531    MSE_Loss: 0.092109    Learning Rate: 0.000024    Test-PSNR: 15.567977905273438
+
+Fri Aug  1 08:28:01 2025
+Global Step: 124600    Loss: 0.250691    MSE_Loss: 0.100879    Learning Rate: 0.000024    Test-PSNR: 15.718914031982422
+
+Fri Aug  1 08:28:52 2025
+Global Step: 124800    Loss: 0.249080    MSE_Loss: 0.103467    Learning Rate: 0.000023    Test-PSNR: 15.813901901245117
+
+Fri Aug  1 08:29:43 2025
+Global Step: 125000    Loss: 0.245094    MSE_Loss: 0.096410    Learning Rate: 0.000023    Test-PSNR: 15.575488090515137
+
+Fri Aug  1 08:30:33 2025
+Global Step: 125200    Loss: 0.255392    MSE_Loss: 0.108117    Learning Rate: 0.000023    Test-PSNR: 15.271612167358398
+
+Fri Aug  1 08:31:24 2025
+Global Step: 125400    Loss: 0.246080    MSE_Loss: 0.092997    Learning Rate: 0.000022    Test-PSNR: 15.238967895507812
+
+Fri Aug  1 08:32:15 2025
+Global Step: 125600    Loss: 0.228044    MSE_Loss: 0.073633    Learning Rate: 0.000022    Test-PSNR: 15.627164840698242
+
+Fri Aug  1 08:33:06 2025
+Global Step: 125800    Loss: 0.240986    MSE_Loss: 0.084958    Learning Rate: 0.000022    Test-PSNR: 15.848335266113281
+
+Fri Aug  1 08:33:56 2025
+Global Step: 126000    Loss: 0.238889    MSE_Loss: 0.081845    Learning Rate: 0.000021    Test-PSNR: 15.476448059082031
+
+Fri Aug  1 08:34:47 2025
+Global Step: 126200    Loss: 0.231614    MSE_Loss: 0.075750    Learning Rate: 0.000021    Test-PSNR: 15.318233489990234
+
+Fri Aug  1 08:35:38 2025
+Global Step: 126400    Loss: 0.230768    MSE_Loss: 0.082509    Learning Rate: 0.000021    Test-PSNR: 15.37225341796875
+
+Fri Aug  1 08:36:28 2025
+Global Step: 126600    Loss: 0.226237    MSE_Loss: 0.070459    Learning Rate: 0.000020    Test-PSNR: 15.412711143493652
+
+Fri Aug  1 08:37:19 2025
+Global Step: 126800    Loss: 0.230155    MSE_Loss: 0.074645    Learning Rate: 0.000020    Test-PSNR: 15.418566703796387
+
+Fri Aug  1 08:38:10 2025
+Global Step: 127000    Loss: 0.233309    MSE_Loss: 0.080625    Learning Rate: 0.000020    Test-PSNR: 15.461589813232422
+
+Fri Aug  1 08:39:00 2025
+Global Step: 127200    Loss: 0.234473    MSE_Loss: 0.082398    Learning Rate: 0.000020    Test-PSNR: 15.468751907348633
+
+Fri Aug  1 08:39:51 2025
+Global Step: 127400    Loss: 0.230493    MSE_Loss: 0.077955    Learning Rate: 0.000019    Test-PSNR: 15.43526554107666
+
+Fri Aug  1 08:40:42 2025
+Global Step: 127600    Loss: 0.235843    MSE_Loss: 0.082314    Learning Rate: 0.000019    Test-PSNR: 15.439453125
+
+Fri Aug  1 08:41:33 2025
+Global Step: 127800    Loss: 0.228968    MSE_Loss: 0.075672    Learning Rate: 0.000019    Test-PSNR: 15.434599876403809
+
+Fri Aug  1 08:42:23 2025
+Global Step: 128000    Loss: 0.231153    MSE_Loss: 0.080466    Learning Rate: 0.000018    Test-PSNR: 15.365686416625977
+
+Fri Aug  1 08:43:14 2025
+Global Step: 128200    Loss: 0.233609    MSE_Loss: 0.081785    Learning Rate: 0.000018    Test-PSNR: 15.329586029052734
+
+Fri Aug  1 08:44:04 2025
+Global Step: 128400    Loss: 0.223914    MSE_Loss: 0.069125    Learning Rate: 0.000018    Test-PSNR: 15.436009407043457
+
+Fri Aug  1 08:44:55 2025
+Global Step: 128600    Loss: 0.229729    MSE_Loss: 0.083701    Learning Rate: 0.000017    Test-PSNR: 15.598997116088867
+
+Fri Aug  1 08:45:46 2025
+Global Step: 128800    Loss: 0.230440    MSE_Loss: 0.075678    Learning Rate: 0.000017    Test-PSNR: 15.605762481689453
+
+Fri Aug  1 08:46:37 2025
+Global Step: 129000    Loss: 0.224862    MSE_Loss: 0.074512    Learning Rate: 0.000017    Test-PSNR: 15.334476470947266
+
+Fri Aug  1 08:47:27 2025
+Global Step: 129200    Loss: 0.225684    MSE_Loss: 0.075024    Learning Rate: 0.000017    Test-PSNR: 15.375308990478516
+
+Fri Aug  1 08:48:18 2025
+Global Step: 129400    Loss: 0.230290    MSE_Loss: 0.077740    Learning Rate: 0.000016    Test-PSNR: 15.453887939453125
+
+Fri Aug  1 08:49:09 2025
+Global Step: 129600    Loss: 0.225209    MSE_Loss: 0.074366    Learning Rate: 0.000016    Test-PSNR: 15.498044967651367
+
+Fri Aug  1 08:49:59 2025
+Global Step: 129800    Loss: 0.217623    MSE_Loss: 0.064737    Learning Rate: 0.000016    Test-PSNR: 15.565845489501953
+
+Fri Aug  1 08:50:50 2025
+Global Step: 130000    Loss: 0.217264    MSE_Loss: 0.064042    Learning Rate: 0.000015    Test-PSNR: 15.532679557800293
+
+Fri Aug  1 08:51:41 2025
+Global Step: 130200    Loss: 0.215318    MSE_Loss: 0.062671    Learning Rate: 0.000015    Test-PSNR: 15.673673629760742
+
+Fri Aug  1 08:52:31 2025
+Global Step: 130400    Loss: 0.215112    MSE_Loss: 0.061563    Learning Rate: 0.000015    Test-PSNR: 15.525850296020508
+
+Fri Aug  1 08:53:22 2025
+Global Step: 130600    Loss: 0.218466    MSE_Loss: 0.065327    Learning Rate: 0.000015    Test-PSNR: 15.494806289672852
+
+Fri Aug  1 08:54:13 2025
+Global Step: 130800    Loss: 0.219280    MSE_Loss: 0.066962    Learning Rate: 0.000014    Test-PSNR: 15.590778350830078
+
+Fri Aug  1 08:55:04 2025
+Global Step: 131000    Loss: 0.219029    MSE_Loss: 0.067522    Learning Rate: 0.000014    Test-PSNR: 15.607860565185547
+
+Fri Aug  1 08:55:54 2025
+Global Step: 131200    Loss: 0.214507    MSE_Loss: 0.062377    Learning Rate: 0.000014    Test-PSNR: 15.449911117553711
+
+Fri Aug  1 08:56:45 2025
+Global Step: 131400    Loss: 0.215128    MSE_Loss: 0.063895    Learning Rate: 0.000014    Test-PSNR: 15.431921005249023
+
+Fri Aug  1 08:57:36 2025
+Global Step: 131600    Loss: 0.218025    MSE_Loss: 0.065766    Learning Rate: 0.000013    Test-PSNR: 15.411890029907227
+
+Fri Aug  1 08:58:27 2025
+Global Step: 131800    Loss: 0.216608    MSE_Loss: 0.063134    Learning Rate: 0.000013    Test-PSNR: 15.544116973876953
+
+Fri Aug  1 08:59:17 2025
+Global Step: 132000    Loss: 0.213579    MSE_Loss: 0.061731    Learning Rate: 0.000013    Test-PSNR: 15.61796760559082
+
+Fri Aug  1 09:00:08 2025
+Global Step: 132200    Loss: 0.217250    MSE_Loss: 0.066181    Learning Rate: 0.000013    Test-PSNR: 15.431499481201172
+
+Fri Aug  1 09:00:58 2025
+Global Step: 132400    Loss: 0.215111    MSE_Loss: 0.063663    Learning Rate: 0.000012    Test-PSNR: 15.554361343383789
+
+Fri Aug  1 09:01:49 2025
+Global Step: 132600    Loss: 0.215873    MSE_Loss: 0.065744    Learning Rate: 0.000012    Test-PSNR: 15.563949584960938
+
+Fri Aug  1 09:02:40 2025
+Global Step: 132800    Loss: 0.214055    MSE_Loss: 0.064325    Learning Rate: 0.000012    Test-PSNR: 15.562919616699219
+
+Fri Aug  1 09:03:31 2025
+Global Step: 133000    Loss: 0.209965    MSE_Loss: 0.060450    Learning Rate: 0.000012    Test-PSNR: 15.640907287597656
+
+Fri Aug  1 09:04:21 2025
+Global Step: 133200    Loss: 0.210479    MSE_Loss: 0.059722    Learning Rate: 0.000011    Test-PSNR: 15.525673866271973
+
+Fri Aug  1 09:05:12 2025
+Global Step: 133400    Loss: 0.206997    MSE_Loss: 0.056914    Learning Rate: 0.000011    Test-PSNR: 15.526859283447266
+
+Fri Aug  1 09:06:03 2025
+Global Step: 133600    Loss: 0.207231    MSE_Loss: 0.056172    Learning Rate: 0.000011    Test-PSNR: 15.341950416564941
+
+Fri Aug  1 09:06:54 2025
+Global Step: 133800    Loss: 0.211634    MSE_Loss: 0.059668    Learning Rate: 0.000011    Test-PSNR: 15.381732940673828
+
+Fri Aug  1 09:07:44 2025
+Global Step: 134000    Loss: 0.208632    MSE_Loss: 0.057767    Learning Rate: 0.000010    Test-PSNR: 15.444097518920898
+
+Fri Aug  1 09:08:35 2025
+Global Step: 134200    Loss: 0.207750    MSE_Loss: 0.061446    Learning Rate: 0.000010    Test-PSNR: 15.500138282775879
+
+Fri Aug  1 09:09:25 2025
+Global Step: 134400    Loss: 0.210634    MSE_Loss: 0.061800    Learning Rate: 0.000010    Test-PSNR: 15.678220748901367
+
+Fri Aug  1 09:10:16 2025
+Global Step: 134600    Loss: 0.206945    MSE_Loss: 0.057412    Learning Rate: 0.000010    Test-PSNR: 15.667045593261719
+
+Fri Aug  1 09:11:07 2025
+Global Step: 134800    Loss: 0.206399    MSE_Loss: 0.056276    Learning Rate: 0.000010    Test-PSNR: 15.532228469848633
+
+Fri Aug  1 09:11:58 2025
+Global Step: 135000    Loss: 0.204102    MSE_Loss: 0.055325    Learning Rate: 0.000009    Test-PSNR: 15.480319023132324
+
+Fri Aug  1 09:12:48 2025
+Global Step: 135200    Loss: 0.201763    MSE_Loss: 0.053871    Learning Rate: 0.000009    Test-PSNR: 15.40304183959961
+
+Fri Aug  1 09:13:39 2025
+Global Step: 135400    Loss: 0.201653    MSE_Loss: 0.051801    Learning Rate: 0.000009    Test-PSNR: 15.354684829711914
+
+Fri Aug  1 09:14:30 2025
+Global Step: 135600    Loss: 0.201216    MSE_Loss: 0.052380    Learning Rate: 0.000009    Test-PSNR: 15.445873260498047
+
+Fri Aug  1 09:15:20 2025
+Global Step: 135800    Loss: 0.199009    MSE_Loss: 0.050223    Learning Rate: 0.000008    Test-PSNR: 15.547550201416016
+
+Fri Aug  1 09:16:11 2025
+Global Step: 136000    Loss: 0.202062    MSE_Loss: 0.052429    Learning Rate: 0.000008    Test-PSNR: 15.570096969604492
+
+Fri Aug  1 09:17:02 2025
+Global Step: 136200    Loss: 0.202727    MSE_Loss: 0.053253    Learning Rate: 0.000008    Test-PSNR: 15.650399208068848
+
+Fri Aug  1 09:17:52 2025
+Global Step: 136400    Loss: 0.202120    MSE_Loss: 0.053401    Learning Rate: 0.000008    Test-PSNR: 15.526050567626953
+
+Fri Aug  1 09:18:43 2025
+Global Step: 136600    Loss: 0.202786    MSE_Loss: 0.054769    Learning Rate: 0.000008    Test-PSNR: 15.631723403930664
+
+Fri Aug  1 09:19:34 2025
+Global Step: 136800    Loss: 0.202257    MSE_Loss: 0.058427    Learning Rate: 0.000008    Test-PSNR: 15.654537200927734
+
+Fri Aug  1 09:20:25 2025
+Global Step: 137000    Loss: 0.201408    MSE_Loss: 0.054191    Learning Rate: 0.000007    Test-PSNR: 15.559173583984375
+
+Fri Aug  1 09:21:15 2025
+Global Step: 137200    Loss: 0.197975    MSE_Loss: 0.050395    Learning Rate: 0.000007    Test-PSNR: 15.467960357666016
+
+Fri Aug  1 09:22:06 2025
+Global Step: 137400    Loss: 0.197938    MSE_Loss: 0.051027    Learning Rate: 0.000007    Test-PSNR: 15.437252044677734
+
+Fri Aug  1 09:22:56 2025
+Global Step: 137600    Loss: 0.195198    MSE_Loss: 0.050700    Learning Rate: 0.000007    Test-PSNR: 15.470327377319336
+
+Fri Aug  1 09:23:47 2025
+Global Step: 137800    Loss: 0.194954    MSE_Loss: 0.049048    Learning Rate: 0.000007    Test-PSNR: 15.413248062133789
+
+Fri Aug  1 09:24:38 2025
+Global Step: 138000    Loss: 0.194176    MSE_Loss: 0.047788    Learning Rate: 0.000006    Test-PSNR: 15.483592987060547
+
+Fri Aug  1 09:25:29 2025
+Global Step: 138200    Loss: 0.195438    MSE_Loss: 0.055126    Learning Rate: 0.000006    Test-PSNR: 15.53116226196289
+
+Fri Aug  1 09:26:19 2025
+Global Step: 138400    Loss: 0.195747    MSE_Loss: 0.055929    Learning Rate: 0.000006    Test-PSNR: 15.438664436340332
+
+Fri Aug  1 09:27:10 2025
+Global Step: 138600    Loss: 0.194570    MSE_Loss: 0.047217    Learning Rate: 0.000006    Test-PSNR: 15.526490211486816
+
+Fri Aug  1 09:28:01 2025
+Global Step: 138800    Loss: 0.195043    MSE_Loss: 0.047898    Learning Rate: 0.000006    Test-PSNR: 15.467381477355957
+
+Fri Aug  1 09:28:51 2025
+Global Step: 139000    Loss: 0.194711    MSE_Loss: 0.047746    Learning Rate: 0.000006    Test-PSNR: 15.450836181640625
+
+Fri Aug  1 09:29:42 2025
+Global Step: 139200    Loss: 0.194441    MSE_Loss: 0.059415    Learning Rate: 0.000005    Test-PSNR: 15.423730850219727
+
+Fri Aug  1 09:30:33 2025
+Global Step: 139400    Loss: 0.194155    MSE_Loss: 0.048393    Learning Rate: 0.000005    Test-PSNR: 15.384647369384766
+
+Fri Aug  1 09:31:23 2025
+Global Step: 139600    Loss: 0.196231    MSE_Loss: 0.068119    Learning Rate: 0.000005    Test-PSNR: 15.361492156982422
+
+Fri Aug  1 09:32:14 2025
+Global Step: 139800    Loss: 0.195142    MSE_Loss: 0.048889    Learning Rate: 0.000005    Test-PSNR: 15.415496826171875
+
+Fri Aug  1 09:33:05 2025
+Global Step: 140000    Loss: 0.194477    MSE_Loss: 0.048069    Learning Rate: 0.000005    Test-PSNR: 15.469158172607422
+
+Fri Aug  1 09:33:56 2025
+Global Step: 140200    Loss: 0.193821    MSE_Loss: 0.048008    Learning Rate: 0.000005    Test-PSNR: 15.457595825195312
+
+Fri Aug  1 09:34:46 2025
+Global Step: 140400    Loss: 0.193738    MSE_Loss: 0.049662    Learning Rate: 0.000004    Test-PSNR: 15.480120658874512
+
+Fri Aug  1 09:35:37 2025
+Global Step: 140600    Loss: 0.194324    MSE_Loss: 0.047516    Learning Rate: 0.000004    Test-PSNR: 15.541088104248047
+
+Fri Aug  1 09:36:28 2025
+Global Step: 140800    Loss: 0.193532    MSE_Loss: 0.047630    Learning Rate: 0.000004    Test-PSNR: 15.507171630859375
+
+Fri Aug  1 09:37:18 2025
+Global Step: 141000    Loss: 0.193604    MSE_Loss: 0.047249    Learning Rate: 0.000004    Test-PSNR: 15.498608589172363
+
+Fri Aug  1 09:38:09 2025
+Global Step: 141200    Loss: 0.193432    MSE_Loss: 0.046911    Learning Rate: 0.000004    Test-PSNR: 15.534313201904297
+
+Fri Aug  1 09:39:00 2025
+Global Step: 141400    Loss: 0.192814    MSE_Loss: 0.047231    Learning Rate: 0.000004    Test-PSNR: 15.526588439941406
+
+Fri Aug  1 09:39:50 2025
+Global Step: 141600    Loss: 0.191977    MSE_Loss: 0.046451    Learning Rate: 0.000004    Test-PSNR: 15.498583793640137
+
+Fri Aug  1 09:40:41 2025
+Global Step: 141800    Loss: 0.191036    MSE_Loss: 0.045913    Learning Rate: 0.000004    Test-PSNR: 15.485748291015625
+
+Fri Aug  1 09:41:32 2025
+Global Step: 142000    Loss: 0.191031    MSE_Loss: 0.046375    Learning Rate: 0.000003    Test-PSNR: 15.537446022033691
+
+Fri Aug  1 09:42:23 2025
+Global Step: 142200    Loss: 0.189711    MSE_Loss: 0.044946    Learning Rate: 0.000003    Test-PSNR: 15.467575073242188
+
+Fri Aug  1 09:43:13 2025
+Global Step: 142400    Loss: 0.188053    MSE_Loss: 0.044266    Learning Rate: 0.000003    Test-PSNR: 15.437461853027344
+
+Fri Aug  1 09:44:04 2025
+Global Step: 142600    Loss: 0.188264    MSE_Loss: 0.047285    Learning Rate: 0.000003    Test-PSNR: 15.422414779663086
+
+Fri Aug  1 09:44:55 2025
+Global Step: 142800    Loss: 0.188931    MSE_Loss: 0.088696    Learning Rate: 0.000003    Test-PSNR: 15.401660919189453
+
+Fri Aug  1 09:45:45 2025
+Global Step: 143000    Loss: 0.187798    MSE_Loss: 0.043162    Learning Rate: 0.000003    Test-PSNR: 15.459371566772461
+
+Fri Aug  1 09:46:36 2025
+Global Step: 143200    Loss: 0.188315    MSE_Loss: 0.043279    Learning Rate: 0.000003    Test-PSNR: 15.432546615600586
+
+Fri Aug  1 09:47:27 2025
+Global Step: 143400    Loss: 0.188811    MSE_Loss: 0.044056    Learning Rate: 0.000003    Test-PSNR: 15.365656852722168
+
+Fri Aug  1 09:48:18 2025
+Global Step: 143600    Loss: 0.187618    MSE_Loss: 0.043002    Learning Rate: 0.000003    Test-PSNR: 15.418590545654297
+
+Fri Aug  1 09:49:09 2025
+Global Step: 143800    Loss: 0.188703    MSE_Loss: 0.044918    Learning Rate: 0.000002    Test-PSNR: 15.3936767578125
+
+Fri Aug  1 09:49:59 2025
+Global Step: 144000    Loss: 0.186792    MSE_Loss: 0.042589    Learning Rate: 0.000002    Test-PSNR: 15.42947769165039
+
+Fri Aug  1 09:50:50 2025
+Global Step: 144200    Loss: 0.186243    MSE_Loss: 0.042239    Learning Rate: 0.000002    Test-PSNR: 15.425410270690918
+
+Fri Aug  1 09:51:40 2025
+Global Step: 144400    Loss: 0.186785    MSE_Loss: 0.042310    Learning Rate: 0.000002    Test-PSNR: 15.430498123168945
+
+Fri Aug  1 09:52:32 2025
+Global Step: 144600    Loss: 0.186665    MSE_Loss: 0.043383    Learning Rate: 0.000002    Test-PSNR: 15.422810554504395
+
+Fri Aug  1 09:53:22 2025
+Global Step: 144800    Loss: 0.185297    MSE_Loss: 0.041362    Learning Rate: 0.000002    Test-PSNR: 15.458657264709473
+
+Fri Aug  1 09:54:13 2025
+Global Step: 145000    Loss: 0.185052    MSE_Loss: 0.042073    Learning Rate: 0.000002    Test-PSNR: 15.47022819519043
+
+Fri Aug  1 09:55:03 2025
+Global Step: 145200    Loss: 0.186041    MSE_Loss: 0.043309    Learning Rate: 0.000002    Test-PSNR: 15.472541809082031
+
+Fri Aug  1 09:55:54 2025
+Global Step: 145400    Loss: 0.185679    MSE_Loss: 0.042219    Learning Rate: 0.000002    Test-PSNR: 15.487211227416992
+
+Fri Aug  1 09:56:45 2025
+Global Step: 145600    Loss: 0.184505    MSE_Loss: 0.041154    Learning Rate: 0.000002    Test-PSNR: 15.463595390319824
+
+Fri Aug  1 09:57:36 2025
+Global Step: 145800    Loss: 0.185167    MSE_Loss: 0.041607    Learning Rate: 0.000002    Test-PSNR: 15.490478515625
+
+Fri Aug  1 09:58:26 2025
+Global Step: 146000    Loss: 0.185217    MSE_Loss: 0.042173    Learning Rate: 0.000002    Test-PSNR: 15.508325576782227
+
+Fri Aug  1 09:59:17 2025
+Global Step: 146200    Loss: 0.185332    MSE_Loss: 0.042078    Learning Rate: 0.000002    Test-PSNR: 15.514305114746094
+
+Fri Aug  1 10:00:08 2025
+Global Step: 146400    Loss: 0.185347    MSE_Loss: 0.042821    Learning Rate: 0.000001    Test-PSNR: 15.533769607543945
+
+Fri Aug  1 10:00:59 2025
+Global Step: 146600    Loss: 0.184121    MSE_Loss: 0.042006    Learning Rate: 0.000001    Test-PSNR: 15.518836975097656
+
+Fri Aug  1 10:01:49 2025
+Global Step: 146800    Loss: 0.185029    MSE_Loss: 0.042884    Learning Rate: 0.000001    Test-PSNR: 15.533607482910156
+
+Fri Aug  1 10:02:40 2025
+Global Step: 147000    Loss: 0.185867    MSE_Loss: 0.044347    Learning Rate: 0.000001    Test-PSNR: 15.570889472961426
+
+Fri Aug  1 10:03:31 2025
+Global Step: 147200    Loss: 0.185422    MSE_Loss: 0.042723    Learning Rate: 0.000001    Test-PSNR: 15.566797256469727
+
+Fri Aug  1 10:04:22 2025
+Global Step: 147400    Loss: 0.185541    MSE_Loss: 0.042640    Learning Rate: 0.000001    Test-PSNR: 15.553747177124023
+
+Fri Aug  1 10:05:12 2025
+Global Step: 147600    Loss: 0.185140    MSE_Loss: 0.042263    Learning Rate: 0.000001    Test-PSNR: 15.563865661621094
+
+Fri Aug  1 10:06:03 2025
+Global Step: 147800    Loss: 0.184821    MSE_Loss: 0.042108    Learning Rate: 0.000001    Test-PSNR: 15.573991775512695
+
+Fri Aug  1 10:06:53 2025
+Global Step: 148000    Loss: 0.184678    MSE_Loss: 0.041876    Learning Rate: 0.000001    Test-PSNR: 15.590408325195312
+
+Fri Aug  1 10:07:44 2025
+Global Step: 148200    Loss: 0.185469    MSE_Loss: 0.042783    Learning Rate: 0.000001    Test-PSNR: 15.600300788879395
+
+Fri Aug  1 10:08:35 2025
+Global Step: 148400    Loss: 0.185033    MSE_Loss: 0.042110    Learning Rate: 0.000001    Test-PSNR: 15.593181610107422
+
+Fri Aug  1 10:09:26 2025
+Global Step: 148600    Loss: 0.185265    MSE_Loss: 0.041755    Learning Rate: 0.000001    Test-PSNR: 15.56882095336914
+
+Fri Aug  1 10:10:16 2025
+Global Step: 148800    Loss: 0.183973    MSE_Loss: 0.041914    Learning Rate: 0.000001    Test-PSNR: 15.600383758544922
+
+Fri Aug  1 10:11:10 2025
+Global Step: 149000    Loss: 0.182920    MSE_Loss: 0.040758    Learning Rate: 0.000001    Test-PSNR: 15.591839790344238
+
+Fri Aug  1 10:12:00 2025
+Global Step: 149200    Loss: 0.184280    MSE_Loss: 0.042118    Learning Rate: 0.000001    Test-PSNR: 15.585662841796875
+
+Fri Aug  1 10:12:51 2025
+Global Step: 149400    Loss: 0.184003    MSE_Loss: 0.041933    Learning Rate: 0.000001    Test-PSNR: 15.587723731994629
+
+Fri Aug  1 10:13:42 2025
+Global Step: 149600    Loss: 0.183391    MSE_Loss: 0.041685    Learning Rate: 0.000001    Test-PSNR: 15.565315246582031
+
+Fri Aug  1 10:14:33 2025
+Global Step: 149800    Loss: 0.182668    MSE_Loss: 0.041221    Learning Rate: 0.000001    Test-PSNR: 15.573799133300781
+
+Fri Aug  1 10:15:23 2025
+Global Step: 150000    Loss: 0.182741    MSE_Loss: 0.041760    Learning Rate: 0.000100    Test-PSNR: 15.537568092346191
+
